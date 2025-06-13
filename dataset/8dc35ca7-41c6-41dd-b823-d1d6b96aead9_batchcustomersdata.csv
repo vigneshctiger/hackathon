@@ -1,0 +1,511 @@
+CustomerID,Region,State,City,Marital_status,Education,Default,Balance,HHInsurance,CarLoan
+100006,Central,Minnesota,Brooklyn Park,married,secondary,0,3025,0,0
+100013,West,California,Los Angeles,single,secondary,0,812,0,1
+100048,West,Washington,Seattle,married,tertiary,0,12,1,0
+100083,South,North Carolina,Charlotte,divorced,primary,0,976,0,0
+100153,Central,Michigan,Detroit,married,primary,0,408,0,0
+100202,East,Maine,Auburn,divorced,primary,0,3881,1,0
+100209,South,North Carolina,Charlotte,married,primary,0,541,0,0
+100279,South,North Carolina,Charlotte,married,primary,0,2795,0,0
+100314,South,North Carolina,Charlotte,single,secondary,0,822,0,0
+100328,West,Utah,Provo,married,tertiary,0,2326,0,0
+100377,West,Idaho,Lewiston,single,secondary,0,651,0,0
+100384,East,New York,New York City,married,,0,3585,0,0
+100419,East,Pennsylvania,Philadelphia,married,secondary,0,95,1,0
+100426,West,California,Los Angeles,married,tertiary,0,2991,0,0
+100454,East,New York,New York City,married,primary,0,5461,1,0
+100468,West,California,Los Angeles,married,secondary,0,1697,0,0
+100524,West,California,Los Angeles,divorced,tertiary,0,2367,0,0
+100545,Central,Illinois,Chicago,single,tertiary,0,302,0,0
+100566,Central,Illinois,Chicago,single,secondary,0,3145,0,0
+100573,East,New York,Troy,married,secondary,0,1358,0,0
+100650,West,California,San Diego,single,secondary,0,1364,1,0
+100720,South,Florida,Miami,divorced,secondary,0,2232,0,0
+100748,East,Pennsylvania,Greensburg,married,primary,0,565,0,0
+100769,Central,Illinois,Chicago,married,primary,0,1644,0,0
+100790,Central,Michigan,Detroit,divorced,secondary,0,0,0,0
+100839,South,Georgia,Atlanta,married,tertiary,0,240,1,0
+100853,East,New York,New York City,divorced,tertiary,0,0,0,0
+100930,East,New York,New York City,married,secondary,0,1730,1,0
+100965,Central,Michigan,Detroit,single,tertiary,0,502,0,0
+101007,East,New York,New York City,divorced,tertiary,0,0,0,0
+101042,West,Oregon,West Linn,divorced,secondary,0,2129,0,0
+101049,West,Washington,Seattle,single,tertiary,0,1159,0,0
+101182,West,Utah,Provo,married,secondary,0,0,1,1
+101210,East,Massachusetts,Boston,single,secondary,0,1243,0,1
+101245,East,Pennsylvania,Philadelphia,single,secondary,0,2424,0,0
+101343,East,New York,New York City,married,secondary,0,2574,1,0
+101378,South,North Carolina,Gastonia,single,secondary,0,-247,1,1
+101399,South,Georgia,Atlanta,single,secondary,0,12264,0,0
+101434,Central,Illinois,Chicago,divorced,tertiary,0,596,1,0
+101476,Central,Illinois,Chicago,single,secondary,0,799,0,0
+101483,West,California,Los Angeles,single,secondary,0,1994,0,0
+101497,East,New York,New York City,single,secondary,0,2354,0,0
+101511,Central,Michigan,Detroit,single,tertiary,0,985,1,0
+101539,East,District of Columbia,Washington,single,tertiary,0,644,0,0
+101602,West,California,Los Angeles,married,tertiary,0,341,0,0
+101707,East,New York,New York City,single,tertiary,0,0,1,1
+101749,Central,Texas,College Station,single,secondary,0,1080,1,1
+101798,South,Florida,Miami,married,secondary,0,4775,0,0
+101910,South,Florida,Miami,single,tertiary,0,129,0,0
+101938,South,Florida,Seminole,married,secondary,0,455,1,0
+101945,West,California,San Diego,married,tertiary,0,2416,0,0
+101966,West,California,Los Angeles,single,tertiary,0,393,0,0
+102008,East,District of Columbia,Washington,single,tertiary,0,121,1,0
+102036,South,Arkansas,Paragould,married,primary,0,1727,0,0
+102071,East,Pennsylvania,Philadelphia,single,tertiary,0,654,1,0
+102099,East,New York,Deer Park,divorced,tertiary,0,1070,1,0
+102281,East,Massachusetts,Boston,single,tertiary,0,431,0,0
+102295,South,Tennessee,Collierville,married,tertiary,1,327,1,1
+102337,West,California,Los Angeles,married,tertiary,0,6822,0,0
+102414,West,California,Los Angeles,single,secondary,0,5679,1,0
+102456,West,California,Los Angeles,married,secondary,0,940,0,0
+102519,Central,Illinois,Chicago,married,secondary,0,1967,0,0
+102638,West,California,Davis,single,tertiary,0,86,0,0
+102722,Central,Michigan,Dearborn,single,secondary,0,2311,0,1
+102750,South,Florida,Tampa,married,secondary,0,267,0,0
+102771,Central,Texas,Pflugerville,single,secondary,0,154,1,0
+102834,Central,Illinois,Chicago,single,secondary,0,23878,0,0
+102848,West,California,Los Angeles,married,secondary,0,1035,0,0
+102890,East,New York,New York City,married,secondary,0,3243,0,0
+102932,West,California,Davis,married,secondary,0,484,1,0
+102946,West,California,Los Angeles,divorced,secondary,0,387,1,0
+102981,West,California,Los Angeles,married,,0,849,1,0
+103037,East,Vermont,Burlington,married,secondary,0,0,1,1
+103247,East,New York,New York City,single,tertiary,0,4176,0,0
+103366,West,California,Los Angeles,single,tertiary,0,3384,0,0
+103373,East,District of Columbia,Washington,married,secondary,0,905,0,0
+103380,West,Montana,Kalispell,married,primary,0,508,0,0
+103471,South,Florida,Miami,single,secondary,0,2265,0,0
+103611,East,Massachusetts,Boston,single,secondary,0,1979,1,1
+103646,West,California,Los Angeles,married,primary,0,5310,1,0
+103723,Central,Minnesota,Brooklyn Park,married,secondary,0,5,0,1
+103730,East,Pennsylvania,Philadelphia,married,,0,2724,0,0
+103793,East,New York,New York City,divorced,secondary,0,237,0,1
+103828,Central,Kansas,Hutchinson,married,primary,0,4979,0,0
+103849,West,California,San Francisco,single,secondary,0,294,1,1
+103891,West,Washington,Seattle,married,tertiary,0,1429,1,0
+103905,South,North Carolina,Goldsboro,married,primary,0,889,0,0
+103947,West,Washington,Seattle,divorced,secondary,0,3068,1,1
+104003,West,California,Los Angeles,married,secondary,0,4608,0,0
+104066,West,Montana,Kalispell,married,secondary,0,-522,1,1
+104185,Central,Kansas,Garden City,married,,0,1559,0,0
+104220,Central,Michigan,Detroit,single,secondary,0,151,1,0
+104269,South,Florida,Miami,married,secondary,0,273,0,0
+104283,South,Arkansas,North Little Rock,married,primary,0,102,1,0
+104381,East,Maryland,Cumberland,single,tertiary,0,2103,0,0
+104430,West,Washington,Seattle,married,tertiary,0,2976,1,0
+104472,East,District of Columbia,Washington,married,secondary,0,202,1,0
+104493,West,California,Los Angeles,divorced,secondary,0,1224,1,0
+104514,South,Florida,Tampa,married,tertiary,0,1058,0,0
+104626,East,Maine,Brunswick,married,tertiary,0,-3058,1,1
+104640,South,Alabama,Selma,single,tertiary,0,763,0,0
+104647,West,Washington,Edmonds,married,tertiary,0,346,0,0
+104745,Central,Texas,Houston,married,secondary,0,4721,0,0
+104773,South,North Carolina,Charlotte,married,secondary,0,0,1,0
+104780,Central,Nebraska,Papillion,single,tertiary,0,1396,1,0
+104794,Central,Illinois,Chicago,single,secondary,0,293,0,0
+104801,South,Georgia,Atlanta,married,secondary,0,203,0,0
+104955,East,Massachusetts,Boston,divorced,secondary,0,947,0,0
+104976,South,Georgia,Atlanta,married,primary,0,7279,1,0
+105018,East,Pennsylvania,Philadelphia,married,secondary,0,53,1,0
+105053,South,North Carolina,Charlotte,single,secondary,0,733,1,0
+105074,East,District of Columbia,Washington,married,secondary,0,341,0,0
+105102,Central,Oklahoma,Oklahoma City,single,tertiary,0,625,0,1
+105144,West,California,Los Angeles,single,secondary,0,353,1,0
+105172,West,California,San Diego,single,secondary,0,344,1,0
+105214,East,Maryland,Dundalk,divorced,,0,465,1,0
+105221,West,California,Los Angeles,married,secondary,0,603,0,1
+105235,East,New Jersey,Union,married,tertiary,0,1204,0,0
+105256,South,Florida,Miami,single,tertiary,0,437,0,0
+105284,East,District of Columbia,Washington,single,tertiary,0,4831,0,0
+105312,East,New York,New York City,single,tertiary,0,533,0,0
+105347,East,New York,New York City,married,secondary,0,246,1,0
+105480,South,Arkansas,Paragould,married,secondary,0,260,1,0
+105494,East,New York,New York City,married,primary,0,2785,0,0
+105578,East,District of Columbia,Washington,single,tertiary,0,2589,0,0
+105585,East,District of Columbia,Washington,married,tertiary,0,589,0,0
+105634,East,Massachusetts,Boston,single,tertiary,0,1623,0,0
+105676,West,California,Los Angeles,married,tertiary,0,3371,0,0
+105760,East,Pennsylvania,Philadelphia,single,secondary,0,505,0,1
+105767,Central,Illinois,Chicago,married,primary,0,56,0,0
+105809,West,California,Los Angeles,divorced,secondary,0,587,0,0
+105816,West,Washington,Seattle,single,,0,6013,1,0
+105886,Central,Illinois,Chicago,married,secondary,0,2160,1,1
+105893,West,California,Los Angeles,single,tertiary,0,2,0,0
+105963,East,Pennsylvania,Philadelphia,single,tertiary,0,538,0,0
+105970,West,California,Los Angeles,married,tertiary,0,0,1,0
+106033,West,California,Los Angeles,divorced,tertiary,0,6468,1,0
+106075,West,Washington,Seattle,married,tertiary,0,66,1,0
+106103,West,Washington,Seattle,married,secondary,0,1625,0,0
+106180,East,District of Columbia,Washington,divorced,secondary,0,7111,1,0
+106306,Central,Illinois,Chicago,married,primary,0,5220,0,0
+106320,Central,Texas,Houston,married,secondary,0,2896,0,0
+106341,West,California,Los Angeles,single,tertiary,0,19,0,0
+106376,Central,Illinois,Chicago,married,tertiary,0,473,0,0
+106383,East,New York,Elmira,single,secondary,0,2424,0,0
+106439,Central,Illinois,Hoffman Estates,married,primary,0,-9,1,0
+106530,West,Washington,Seattle,single,secondary,0,0,0,0
+106537,Central,Kansas,Hutchinson,single,secondary,0,1709,0,1
+106558,East,Connecticut,Colchester,married,secondary,0,1515,1,0
+106565,West,Washington,Seattle,married,,0,1504,1,0
+106572,Central,Michigan,Canton,married,secondary,0,315,0,0
+106663,East,New York,New York City,married,secondary,0,262,0,0
+106677,South,Florida,Hollywood,married,primary,0,7459,1,0
+106705,East,New York,New York City,married,secondary,0,403,1,0
+106719,East,Connecticut,Hartford,married,secondary,0,978,0,0
+106803,West,California,Los Angeles,married,tertiary,0,83,0,0
+106810,East,New York,New York City,married,tertiary,0,296,0,1
+106852,South,North Carolina,Charlotte,single,tertiary,1,-405,1,1
+106859,West,Utah,Pleasant Grove,divorced,primary,0,0,0,0
+106894,South,Georgia,Atlanta,married,secondary,0,139,1,1
+106943,East,Pennsylvania,Philadelphia,divorced,primary,0,-291,1,1
+106964,East,New York,New York City,married,secondary,0,2823,1,0
+106992,East,Massachusetts,Boston,married,secondary,0,0,0,0
+107153,East,New York,New York City,married,,0,618,0,0
+107181,West,California,San Diego,married,primary,0,3229,1,0
+107202,Central,Wisconsin,Fitchburg,married,,0,991,0,0
+107216,Central,Illinois,Chicago,single,secondary,0,98,0,0
+107272,West,California,San Francisco,single,secondary,0,302,0,0
+107293,West,California,Los Angeles,married,secondary,0,1451,0,0
+107342,Central,Kansas,Leavenworth,single,tertiary,0,992,1,0
+107349,West,Washington,Seattle,married,tertiary,0,2351,0,0
+107461,West,California,East Los Angeles,divorced,tertiary,0,443,0,0
+107503,West,California,San Francisco,divorced,secondary,0,36,1,1
+107594,South,Georgia,Columbus,single,secondary,0,843,0,0
+107615,East,New York,New York City,single,tertiary,0,401,0,0
+107720,West,California,Los Angeles,married,secondary,0,8491,1,0
+107727,Central,Texas,Dallas,married,secondary,0,0,0,0
+107755,South,Georgia,Atlanta,single,secondary,0,1522,0,0
+107874,South,North Carolina,Goldsboro,married,secondary,0,48,1,0
+107916,East,Ohio,Mount Vernon,married,tertiary,0,653,0,0
+108063,South,North Carolina,Charlotte,divorced,primary,0,-233,1,0
+108070,Central,Wisconsin,Watertown,single,secondary,0,2,0,0
+108098,Central,Michigan,Detroit,divorced,primary,0,301,1,0
+108189,East,New York,North Babylon,single,secondary,0,382,0,0
+108245,West,Washington,Marysville,divorced,secondary,0,-251,0,0
+108294,East,Massachusetts,Boston,married,primary,0,3324,0,0
+108322,Central,Texas,Cedar Hill,single,secondary,0,152,1,0
+108329,East,Pennsylvania,Philadelphia,married,tertiary,0,160,0,0
+108441,East,Connecticut,Norwich,married,tertiary,0,553,1,0
+108455,South,Florida,Miami,divorced,primary,0,2656,1,0
+108504,East,New York,New York City,married,primary,0,3518,1,0
+108553,West,California,Manhattan Beach,single,tertiary,0,760,1,0
+108560,Central,Texas,Dallas,married,secondary,1,-367,1,0
+108574,Central,Wisconsin,Eau Claire,married,tertiary,0,2816,0,0
+108581,West,California,Los Angeles,single,,0,1011,0,0
+108637,South,Tennessee,Columbia,single,tertiary,0,272,1,0
+108665,East,New York,New York City,married,tertiary,0,1722,1,0
+108707,Central,Michigan,Clinton,single,,0,53,0,0
+108882,South,Alabama,Selma,married,secondary,0,35,0,0
+117212,East,New York,New York City,single,secondary,0,2881,0,0
+117240,West,California,Los Angeles,single,tertiary,0,697,0,0
+117247,East,New York,New York City,divorced,tertiary,0,96,0,0
+117282,Central,Texas,Pflugerville,married,secondary,0,1568,1,0
+117317,West,Washington,Seattle,single,tertiary,0,924,0,0
+117345,East,New York,New York City,married,secondary,0,1740,0,0
+117415,Central,Texas,Dallas,divorced,primary,0,138,1,0
+117429,East,New York,New York City,married,primary,0,4198,0,0
+117457,West,Washington,Seattle,married,tertiary,0,1047,0,0
+117485,East,District of Columbia,Washington,married,secondary,0,96,0,0
+117534,South,Alabama,Madison,married,primary,0,72,1,1
+117590,Central,Texas,Dallas,single,tertiary,0,842,0,0
+117611,South,Arkansas,Little Rock,divorced,secondary,0,6481,0,0
+117639,West,Washington,Seattle,divorced,tertiary,0,0,0,0
+117695,West,Washington,Seattle,married,secondary,0,3027,1,0
+117709,East,New York,New York City,single,tertiary,0,455,0,0
+117723,Central,Michigan,Dearborn Heights,divorced,primary,0,949,0,0
+117744,South,Florida,Jacksonville,single,tertiary,0,0,1,0
+117828,Central,Oklahoma,Muskogee,single,secondary,0,53,1,1
+117849,East,New York,Elmira,single,secondary,0,188,1,0
+117870,South,Florida,Seminole,married,secondary,0,1135,1,0
+117933,South,Georgia,Atlanta,single,secondary,0,1231,1,0
+117947,South,Georgia,Atlanta,married,primary,0,12067,0,0
+117961,Central,Illinois,Chicago,divorced,tertiary,0,1583,1,0
+118038,West,Washington,Seattle,married,secondary,0,802,1,1
+118052,West,California,Huntington Beach,divorced,tertiary,0,0,0,0
+118087,West,California,Los Angeles,married,tertiary,0,2763,1,0
+118136,East,New York,New York City,single,secondary,0,799,0,1
+118255,Central,Texas,Dallas,divorced,primary,0,79,0,0
+118339,South,Florida,Miami,divorced,secondary,0,801,0,0
+118423,East,District of Columbia,Washington,married,primary,0,228,1,0
+118437,West,California,Los Angeles,married,tertiary,0,88,0,0
+118444,Central,Illinois,Tinley Park,married,tertiary,0,2351,0,0
+118486,South,North Carolina,Charlotte,single,tertiary,0,228,1,0
+118570,West,Washington,Seattle,married,secondary,0,976,1,0
+118626,West,Oregon,West Linn,married,tertiary,0,2991,0,0
+118640,East,District of Columbia,Washington,divorced,secondary,0,200,0,0
+118731,Central,Michigan,Detroit,divorced,secondary,0,383,1,0
+118773,West,Utah,Pleasant Grove,married,tertiary,0,119,1,0
+118780,Central,Michigan,Detroit,single,tertiary,0,1094,1,0
+118857,East,New York,New York City,married,tertiary,0,1113,0,0
+118885,East,Massachusetts,Boston,single,secondary,0,5802,0,0
+118913,South,North Carolina,Greensboro,married,secondary,0,992,1,0
+118948,Central,Texas,Dallas,single,secondary,0,82,1,0
+118962,South,Florida,Miami,married,secondary,0,205,0,0
+118976,East,New York,New York City,divorced,secondary,0,51,0,0
+118983,West,California,Los Angeles,single,,0,2022,0,0
+119004,South,Georgia,Atlanta,divorced,tertiary,0,461,0,0
+119025,South,Tennessee,Collierville,married,tertiary,0,2557,0,0
+119032,Central,Michigan,Detroit,married,secondary,0,1289,0,0
+119137,Central,Texas,Houston,single,secondary,0,5909,1,0
+119165,East,New York,Valley Stream,single,tertiary,0,7506,1,0
+119186,West,California,Los Angeles,single,tertiary,0,0,0,0
+119193,South,Georgia,Atlanta,married,tertiary,0,242,0,0
+119214,Central,Illinois,Chicago,single,tertiary,0,223,1,0
+119291,West,California,Los Angeles,single,secondary,0,895,1,0
+119305,Central,Illinois,Chicago,married,primary,0,12519,1,0
+119375,West,Utah,Provo,single,primary,0,377,0,0
+119438,Central,Illinois,Chicago,single,tertiary,0,1781,0,0
+119445,West,California,Los Angeles,married,secondary,0,425,1,0
+119578,West,Oregon,Corvallis,single,secondary,0,0,1,0
+119592,East,Massachusetts,Boston,single,tertiary,0,222,0,0
+119662,East,New York,New York City,single,tertiary,0,48,0,0
+119669,South,Tennessee,Columbia,single,secondary,0,119,1,1
+119697,Central,Illinois,Chicago,married,secondary,0,557,1,0
+119823,Central,Illinois,Chicago,married,secondary,0,2689,1,0
+119907,East,New York,New York City,married,tertiary,0,4539,0,0
+120089,West,Utah,Pleasant Grove,married,,0,679,0,0
+120103,West,Washington,Edmonds,married,secondary,0,1405,1,0
+120161,Central,Michigan,Detroit,married,tertiary,0,534,0,0
+120180,Central,Texas,Houston,married,secondary,0,466,1,0
+120243,Central,Texas,Dallas,married,tertiary,0,267,0,0
+120341,Central,Texas,Houston,single,tertiary,0,9314,0,0
+120362,West,California,Los Angeles,single,secondary,0,183,1,0
+120376,Central,Illinois,Hoffman Estates,married,secondary,0,1146,0,0
+120390,Central,Iowa,Waterloo,divorced,primary,0,694,0,0
+120397,South,South Carolina,Taylors,married,secondary,0,823,0,0
+120418,Central,Oklahoma,Moore,married,primary,0,1162,1,0
+120439,East,New York,New York City,married,secondary,0,99,1,0
+120460,Central,Texas,Pharr,single,tertiary,0,187,0,0
+120474,East,District of Columbia,Washington,single,secondary,0,125,0,0
+120558,Central,Oklahoma,Bartlesville,married,secondary,0,1384,1,0
+120572,Central,Minnesota,Blaine,married,tertiary,0,4216,0,0
+120712,West,Washington,Seattle,married,secondary,0,1110,1,0
+120761,Central,Michigan,Detroit,single,tertiary,0,1761,1,0
+120768,West,Washington,Seattle,single,tertiary,0,228,1,0
+120859,Central,Illinois,Chicago,married,primary,0,0,0,0
+120880,Central,Texas,Houston,married,secondary,0,1368,0,0
+120887,East,District of Columbia,Washington,married,secondary,0,985,0,0
+120929,East,District of Columbia,Washington,married,secondary,0,5715,0,0
+120999,East,New York,New York City,single,tertiary,0,2707,0,0
+121034,East,New York,New York City,single,primary,0,800,1,0
+121041,West,California,Los Banos,married,tertiary,0,3160,1,0
+121223,East,New York,New York City,married,tertiary,0,630,0,0
+121251,East,Massachusetts,Boston,married,primary,0,40,0,0
+121286,South,Georgia,Atlanta,divorced,tertiary,0,126,0,0
+121391,West,California,Los Angeles,single,,0,491,0,0
+121412,West,California,Los Angeles,married,primary,0,997,0,0
+121419,West,Idaho,Lewiston,single,tertiary,0,6542,1,0
+121468,West,Washington,Seattle,married,tertiary,0,4675,0,0
+121503,West,California,Los Angeles,married,secondary,0,20806,0,0
+121538,East,District of Columbia,Washington,married,secondary,0,974,0,0
+121608,West,California,Los Angeles,single,tertiary,0,705,1,0
+121615,Central,Illinois,Tinley Park,single,secondary,0,44,0,0
+121664,East,New York,New York City,married,secondary,0,390,0,0
+121671,East,Ohio,Mount Vernon,married,tertiary,0,2881,0,0
+121720,East,Connecticut,Shelton,single,secondary,0,2,1,0
+121727,Central,Oklahoma,Oklahoma City,married,secondary,0,2948,0,0
+121755,East,Massachusetts,Boston,married,secondary,0,824,1,0
+121797,Central,Minnesota,Bloomington,married,secondary,0,0,0,0
+121804,East,New York,New York City,single,tertiary,0,1129,1,0
+121818,South,North Carolina,Charlotte,married,tertiary,0,6138,0,0
+121888,East,New York,New York City,married,secondary,0,1047,0,0
+121909,East,Maryland,Dundalk,married,,0,282,0,0
+121958,East,New York,New York City,married,tertiary,0,238,0,0
+122035,Central,Oklahoma,Muskogee,married,secondary,0,272,0,0
+122105,South,Georgia,Atlanta,single,secondary,0,204,1,0
+122133,West,Washington,Seattle,married,tertiary,0,7,1,0
+122140,Central,Texas,Cedar Hill,married,tertiary,0,997,0,0
+122154,East,Pennsylvania,Philadelphia,married,secondary,0,96,0,0
+122210,Central,Iowa,Ames,divorced,secondary,0,479,1,0
+122245,East,Massachusetts,Boston,single,tertiary,0,228,1,0
+122259,East,Massachusetts,Boston,single,,0,129,1,1
+122280,West,California,East Los Angeles,single,secondary,0,3713,0,0
+122287,Central,Illinois,Chicago,divorced,secondary,0,300,1,0
+122322,East,Maryland,Dundalk,single,tertiary,0,562,1,1
+122336,South,North Carolina,Charlotte,married,secondary,0,4182,1,0
+122371,South,South Carolina,Taylors,divorced,tertiary,0,224,0,0
+122392,East,New York,New York City,married,secondary,0,204,1,0
+122504,Central,Illinois,Highland Park,married,secondary,0,1595,0,0
+122567,West,Washington,Seattle,married,tertiary,0,2427,0,0
+122623,East,Ohio,Hudson,divorced,tertiary,0,254,0,0
+122637,South,Florida,Miami,married,tertiary,0,867,1,0
+122693,West,California,Los Angeles,divorced,secondary,0,1091,0,0
+122700,West,Washington,Seattle,married,,0,2284,1,0
+122707,South,Georgia,Columbus,divorced,tertiary,0,66,0,0
+122728,South,Florida,Miami,married,secondary,0,4117,0,0
+122735,West,California,Los Angeles,married,secondary,0,1219,0,0
+122749,West,California,Los Angeles,single,secondary,0,23,0,0
+122756,East,New York,New York City,divorced,secondary,0,451,1,0
+122826,West,Washington,Seattle,single,,0,829,0,0
+122882,Central,Michigan,Detroit,single,primary,0,8990,0,0
+122959,Central,Oklahoma,Bartlesville,single,secondary,0,154,0,0
+122994,South,Arkansas,Little Rock,divorced,primary,0,802,0,0
+123064,East,New York,Holbrook,single,,0,45248,1,0
+123134,East,New York,Bethpage,married,secondary,0,3434,0,1
+123218,Central,Texas,Houston,single,tertiary,0,462,0,0
+123232,East,New York,Elmira,single,secondary,0,2252,0,0
+123260,East,Pennsylvania,Philadelphia,married,tertiary,0,3186,0,0
+123274,West,California,Los Angeles,married,secondary,0,2271,0,0
+123281,West,California,Los Angeles,single,secondary,0,2544,0,0
+123295,West,Washington,Elk Plain,married,secondary,0,879,0,0
+123344,East,New York,New York City,married,tertiary,0,1265,1,0
+123372,West,Idaho,Boise,single,primary,0,0,1,1
+123463,Central,Illinois,Chicago,single,tertiary,0,0,0,0
+123470,West,California,Los Angeles,married,primary,0,197,0,0
+123491,Central,Illinois,Chicago,married,secondary,0,2758,0,0
+123498,East,Maine,Westbrook,divorced,secondary,0,-7,1,0
+123505,Central,Texas,Pflugerville,married,secondary,0,261,0,0
+123568,South,Virginia,Rose Hill,single,tertiary,0,6746,0,0
+123617,Central,Kansas,Leawood,divorced,tertiary,0,6,1,0
+123638,Central,Michigan,Ann Arbor,married,secondary,0,978,0,0
+123659,South,Tennessee,Collierville,single,tertiary,0,12857,1,0
+123666,West,Washington,Seattle,single,secondary,0,668,1,0
+123673,East,New York,New York City,single,secondary,0,372,0,0
+123722,West,California,Los Angeles,married,tertiary,0,2855,0,0
+123750,East,Massachusetts,Boston,married,tertiary,0,286,0,0
+123925,East,New York,New York City,married,secondary,0,1286,1,0
+123960,Central,Texas,College Station,married,secondary,0,775,0,1
+123967,West,California,Los Gatos,single,tertiary,0,5774,1,0
+123981,West,Washington,Mount Vernon,single,,0,417,0,0
+124051,South,Florida,Miramar,married,secondary,0,2308,0,0
+124086,Central,Illinois,Chicago,divorced,secondary,0,214,0,0
+124149,East,Ohio,Hudson,divorced,tertiary,0,883,1,0
+124268,West,California,Los Angeles,single,secondary,0,318,1,0
+124303,East,District of Columbia,Washington,divorced,tertiary,0,0,0,0
+124352,Central,Michigan,Dearborn,single,,0,3,0,0
+124401,South,North Carolina,Indian Trail,married,secondary,0,3311,1,0
+124429,Central,Texas,Dallas,married,tertiary,0,905,0,0
+124450,East,New York,New York City,single,tertiary,0,353,0,0
+124485,South,Florida,Miami,married,tertiary,0,22867,1,0
+124506,Central,Michigan,Dearborn Heights,married,secondary,0,2183,1,1
+124541,Central,Michigan,Clinton,married,tertiary,0,255,0,0
+124562,West,Oregon,Corvallis,divorced,primary,0,2282,0,0
+124576,South,North Carolina,Goldsboro,married,tertiary,0,231,0,0
+124597,West,Washington,Seattle,divorced,secondary,0,936,0,0
+124646,South,Florida,Seminole,married,primary,0,565,0,0
+124653,South,Florida,Miami,single,secondary,0,23878,0,0
+124667,East,New York,New York City,married,primary,0,415,1,0
+124674,South,Virginia,Rose Hill,married,secondary,0,5447,1,1
+124772,East,Maryland,Crofton,married,primary,0,70,0,0
+124800,West,California,San Diego,married,tertiary,0,0,0,1
+124828,West,California,Los Angeles,married,secondary,0,696,1,0
+124891,West,Washington,Seattle,married,tertiary,0,11385,0,0
+124898,East,New York,Deer Park,divorced,tertiary,0,1057,0,0
+124919,West,California,Los Angeles,divorced,tertiary,0,52587,0,0
+124926,West,California,Los Angeles,divorced,secondary,0,-176,0,1
+124968,East,Pennsylvania,Philadelphia,divorced,tertiary,0,507,1,0
+125136,West,Washington,Seattle,married,tertiary,0,2283,0,0
+125199,East,District of Columbia,Washington,married,secondary,0,203,0,0
+125206,West,Utah,Provo,divorced,secondary,0,10,1,0
+125290,West,Idaho,Lewiston,single,tertiary,0,0,0,0
+125318,East,Massachusetts,Boston,married,primary,0,5,0,0
+125374,Central,Texas,Dallas,married,primary,0,1337,0,0
+125388,West,California,San Francisco,married,primary,0,2149,1,0
+125395,East,District of Columbia,Washington,married,primary,0,0,1,0
+125416,West,California,Los Angeles,married,primary,0,2266,0,0
+125423,Central,Illinois,Chicago,married,secondary,0,473,0,1
+125514,South,Florida,Jacksonville,married,tertiary,0,774,0,0
+125521,Central,Kansas,Garden City,single,secondary,0,37,0,0
+125556,South,North Carolina,Goldsboro,married,,0,113,0,0
+125612,Central,Michigan,Detroit,single,secondary,0,625,0,0
+125738,South,North Carolina,Garner,single,tertiary,0,0,0,0
+125969,East,District of Columbia,Washington,married,primary,0,3904,0,0
+126004,West,California,Los Angeles,married,secondary,0,4596,1,0
+126032,Central,Iowa,Bettendorf,married,tertiary,0,4787,1,0
+126046,West,California,Los Angeles,married,tertiary,0,4348,1,0
+126067,West,Oregon,Troutdale,single,secondary,0,691,0,0
+126074,East,Pennsylvania,Philadelphia,married,secondary,0,117,1,0
+126137,West,Utah,Provo,single,secondary,0,67,0,0
+126158,Central,Illinois,Chicago,married,secondary,0,0,0,0
+126179,West,California,Los Angeles,divorced,primary,0,201,0,0
+126214,West,California,Los Angeles,married,primary,0,1173,1,0
+126221,East,Massachusetts,Boston,divorced,secondary,0,-191,1,0
+126242,Central,Michigan,Bay City,married,tertiary,0,0,0,0
+126361,Central,Illinois,Chicago,single,tertiary,0,1361,0,0
+126382,East,Pennsylvania,Philadelphia,married,secondary,0,281,0,0
+126403,East,New Jersey,Irvington,divorced,tertiary,0,3076,0,0
+126445,South,Florida,Miami,single,tertiary,0,5514,0,0
+126522,Central,Illinois,Chicago,married,secondary,0,1758,1,0
+126529,Central,Illinois,Chicago,married,tertiary,0,1524,0,0
+126536,Central,Texas,Cedar Park,married,secondary,0,154,1,0
+126613,South,Florida,Miami,single,secondary,0,560,0,0
+126697,East,Massachusetts,Boston,single,secondary,0,5637,1,0
+126774,West,California,Los Angeles,married,secondary,0,29340,0,0
+126809,West,California,San Diego,married,secondary,0,0,0,0
+126844,West,Oregon,West Linn,single,secondary,0,129,1,1
+126865,Central,Illinois,Chicago,married,tertiary,0,3864,1,0
+126893,West,Montana,Kalispell,single,secondary,0,1696,1,0
+126935,South,Florida,Tampa,single,secondary,0,515,0,0
+126956,West,California,Los Angeles,married,secondary,0,4216,0,0
+127012,East,New York,New York City,married,tertiary,0,4227,1,0
+127019,Central,Texas,Carrollton,single,tertiary,0,215,0,0
+127026,East,New York,Holbrook,divorced,tertiary,0,5583,1,0
+127040,East,New Jersey,Avenel,single,tertiary,0,2489,0,0
+127110,East,New York,New York City,married,secondary,0,1533,0,0
+127131,East,New York,New York City,single,secondary,0,390,0,0
+127159,East,New York,New York City,divorced,tertiary,0,2240,0,0
+127180,West,California,Manhattan Beach,married,secondary,0,1946,0,0
+127187,Central,Minnesota,Brooklyn Center,divorced,tertiary,0,661,1,0
+127208,West,California,Los Angeles,married,tertiary,0,210,1,0
+127250,West,California,San Diego,married,tertiary,0,100,0,0
+127285,East,New York,New York City,married,primary,0,426,0,0
+127369,Central,Texas,Houston,married,tertiary,0,536,1,0
+127418,West,Washington,Seattle,married,tertiary,0,482,0,0
+127432,West,California,Los Angeles,divorced,tertiary,0,927,0,0
+127446,West,California,Los Gatos,single,tertiary,0,84,0,1
+127453,East,Massachusetts,Boston,married,tertiary,0,2306,0,0
+127460,East,Ohio,Mount Vernon,married,secondary,0,346,0,0
+127488,South,North Carolina,Charlotte,single,secondary,0,1747,1,0
+127509,Central,Illinois,Chicago,married,secondary,0,881,0,0
+127586,Central,Illinois,Tinley Park,married,tertiary,0,4629,1,0
+127621,West,Utah,Provo,single,secondary,0,78,0,0
+127670,Central,Texas,Dallas,single,secondary,0,1347,0,0
+127691,Central,Michigan,Detroit,single,secondary,0,410,1,0
+127705,West,Washington,Seattle,single,secondary,0,0,0,1
+127719,East,Massachusetts,Boston,single,secondary,0,874,1,0
+127775,Central,Texas,Carrollton,single,secondary,0,2069,0,0
+127929,West,Arizona,Scottsdale,married,secondary,0,1044,0,0
+127964,East,New York,New York City,married,secondary,0,0,0,0
+128027,East,New York,Valley Stream,married,,0,8781,1,0
+128055,East,New York,East Meadow,single,secondary,0,409,1,0
+128090,Central,Wisconsin,Watertown,single,tertiary,0,6983,0,0
+128111,South,Alabama,Madison,divorced,tertiary,0,3417,0,0
+128139,South,North Carolina,Charlotte,divorced,secondary,0,1490,0,0
+128146,West,California,San Francisco,divorced,primary,0,1612,0,0
+128160,South,Florida,Miami,married,secondary,0,235,0,0
+128167,East,Massachusetts,Boston,single,secondary,0,1750,1,0
+128195,East,Massachusetts,Westford,married,primary,0,5313,0,0
+128258,East,New York,New York City,single,secondary,0,27,0,0
+128293,Central,Kansas,Garden City,single,,0,486,0,0
+128300,West,California,Manhattan Beach,single,secondary,0,1857,1,0
+128370,East,Pennsylvania,Philadelphia,single,primary,0,1411,0,0
+128412,South,North Carolina,Greensboro,married,secondary,0,640,1,0
+128475,Central,Minnesota,Burnsville,married,tertiary,0,-17,1,1
+128517,West,Idaho,Lewiston,divorced,primary,0,568,1,0
+128531,East,New York,New York City,single,secondary,0,-195,1,0
+128594,Central,Kansas,Lawrence,single,secondary,0,113,0,0
+128629,Central,Iowa,West Des Moines,married,secondary,0,15,0,0
+128727,West,California,Los Angeles,married,,0,1229,0,0
+128755,East,New York,Utica,married,secondary,0,274,1,0
+128818,South,North Carolina,Garner,married,secondary,0,253,0,0
+128860,South,North Carolina,Greenville,divorced,primary,0,5701,0,0
+128867,South,Georgia,Atlanta,married,tertiary,0,3109,0,0
+128888,Central,Michigan,Canton,single,tertiary,0,1227,1,1
+128902,East,New York,New York City,married,secondary,0,238,0,0
+128923,Central,Illinois,Chicago,divorced,secondary,0,44,0,1
+128986,East,Ohio,Hilliard,married,tertiary,0,970,1,0
+129091,East,New Hampshire,Merrimack,single,tertiary,0,196,0,0
+129098,West,California,Los Angeles,married,tertiary,0,2524,0,0
+129112,Central,Illinois,Chicago,single,tertiary,0,620,0,0
+129168,Central,Illinois,Highland Park,single,secondary,0,4071,0,0
+129378,South,North Carolina,Goldsboro,single,secondary,0,102,0,1
+129441,East,Massachusetts,Boston,single,tertiary,0,1081,0,0
+129462,East,New York,New York City,single,secondary,0,2351,0,0
+129469,South,Tennessee,Cleveland,married,secondary,0,7005,1,0
+129476,East,Massachusetts,Boston,married,secondary,0,2331,0,0
+129567,East,New York,New York City,married,primary,0,0,1,0
+129574,Central,Texas,Carrollton,married,secondary,0,2228,1,0
+129686,East,New York,New York City,married,secondary,0,0,1,0
+129693,Central,Illinois,Highland Park,married,secondary,0,0,1,0
