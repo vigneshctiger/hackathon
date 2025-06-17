@@ -8,33 +8,53 @@ import threading
 from datetime import datetime, timedelta
 import paho.mqtt.client as mqtt
 import logging
+import sys
 import os
-import random
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import queue
 
-# Configure logging with more detailed output for high volume
-logging.basicConfig(
-    level=logging.INFO, 
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler('aws_iot_streaming.log'),
-        logging.StreamHandler()
-    ]
-)
-logger = logging.getLogger(__name__)
 
-# AWS Credentials
-AWS_ACCESS_KEY_ID = ""
-AWS_SECRET_ACCESS_KEY = ""
-AWS_REGION = "ap-south-1"
+# logging.basicConfig(
+#     level=logging.INFO, 
+#     format='%(asctime)s - %(levelname)s - %(message)s',
+#     handlers=[
+#         logging.FileHandler('aws_iot_streaming.log'),
+#         logging.StreamHandler()
+#     ]
+# )
+# logger = logging.getLogger(__name__)
+
+
+# Configure logging with more detailed output for high volume
+sys.stdout.reconfigure(encoding='utf-8')
+
+# Set up logging with UTF-8 encoded StreamHandler
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+
+file_handler = logging.FileHandler('aws_iot_streaming.log', encoding='utf-8')
+stream_handler = logging.StreamHandler(sys.stdout)
+
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+
+file_handler.setFormatter(formatter)
+stream_handler.setFormatter(formatter)
+
+logger.handlers = []  # Clear existing handlers
+logger.addHandler(file_handler)
+logger.addHandler(stream_handler)
+
+# AWS Credentials Not required for this script
+# AWS_ACCESS_KEY_ID = ""
+# AWS_SECRET_ACCESS_KEY = ""
+# AWS_REGION = "ap-south-1"
 
 class AWSIoTHighVolumeConfig:
     def __init__(self):
         # File paths - Updated for 100K records
-        self.DATA_FILE = r"C:\Users\hariprasath.s\Documents\InternalProject\Hackathon\hackathon\telemetry_data.json"  # Your 100K records file
-        self.CONNECTIONS_FILE = r"E:\Data\IOT_Telematics\aws_certificates\aws_device_connections.json"
-        self.CERT_DIR = r"C:\Users\hariprasath.s\Documents\InternalProject\Hackathon\hackathon\certificates"
+        self.DATA_FILE = r"telemetry_data.json"  # Your 100K records file
+        self.CONNECTIONS_FILE = r"aws_device_connections.json"
+        self.CERT_DIR = r"certificates"
         
         # High Volume Streaming settings - Optimized for 5 hours
         self.TOTAL_RECORDS = 100000  # Expected total records
@@ -446,16 +466,26 @@ class AWSIoTHighVolumeStreamer:
         logger.info(f"âœ… Success: {success_rate:.1f}% | ETA: {completion_time.strftime('%H:%M:%S')}")
     
     def health_check(self):
-        """Check health of device connections"""
+        """Check health of device connections and reconnect if needed"""
         unhealthy_devices = []
+
         for device_id, client in self.device_clients.items():
             if not client.is_healthy():
                 unhealthy_devices.append(device_id)
-        
+        # Check if any devices are unhealthy and attempt to reconnect
         if unhealthy_devices:
-            logger.warning(f"âš ï¸ {len(unhealthy_devices)} devices unhealthy")
-            # Could implement reconnection logic here
-    
+            logger.warning(f"⚠️ {len(unhealthy_devices)} devices unhealthy. Reconnecting...")
+
+            for device_id in unhealthy_devices:
+                cert_files = self.device_connections[device_id].get('certificate_files', {})
+                new_client = AWSIoTMQTTClient(device_id, cert_files, self.iot_endpoint)
+
+                if new_client.connect():
+                    logger.info(f"🔄 Reconnected device {device_id} successfully")
+                    self.device_clients[device_id] = new_client
+                else:
+                    logger.error(f"❌ Failed to reconnect device {device_id}")
+
     def final_report(self):
         """Generate final streaming report"""
         elapsed_total = (datetime.now() - self.streaming_stats['start_time']).total_seconds()
