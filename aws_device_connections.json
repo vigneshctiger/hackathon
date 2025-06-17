@@ -1,0 +1,3575 @@
+{
+  "endpoint": "a2unos5jc1hsi3-ats.iot.ap-south-1.amazonaws.com",
+  "devices": {
+    "DEV_100006": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100006/certificate.pem.crt",
+        "private_key": "certs/DEV_100006/private.pem.key",
+        "root_ca": "certs/DEV_100006/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100013": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100013/certificate.pem.crt",
+        "private_key": "certs/DEV_100013/private.pem.key",
+        "root_ca": "certs/DEV_100013/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100048": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100048/certificate.pem.crt",
+        "private_key": "certs/DEV_100048/private.pem.key",
+        "root_ca": "certs/DEV_100048/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100083": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100083/certificate.pem.crt",
+        "private_key": "certs/DEV_100083/private.pem.key",
+        "root_ca": "certs/DEV_100083/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100153": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100153/certificate.pem.crt",
+        "private_key": "certs/DEV_100153/private.pem.key",
+        "root_ca": "certs/DEV_100153/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100202": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100202/certificate.pem.crt",
+        "private_key": "certs/DEV_100202/private.pem.key",
+        "root_ca": "certs/DEV_100202/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100209": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100209/certificate.pem.crt",
+        "private_key": "certs/DEV_100209/private.pem.key",
+        "root_ca": "certs/DEV_100209/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100279": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100279/certificate.pem.crt",
+        "private_key": "certs/DEV_100279/private.pem.key",
+        "root_ca": "certs/DEV_100279/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100314": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100314/certificate.pem.crt",
+        "private_key": "certs/DEV_100314/private.pem.key",
+        "root_ca": "certs/DEV_100314/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100328": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100328/certificate.pem.crt",
+        "private_key": "certs/DEV_100328/private.pem.key",
+        "root_ca": "certs/DEV_100328/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100377": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100377/certificate.pem.crt",
+        "private_key": "certs/DEV_100377/private.pem.key",
+        "root_ca": "certs/DEV_100377/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100384": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100384/certificate.pem.crt",
+        "private_key": "certs/DEV_100384/private.pem.key",
+        "root_ca": "certs/DEV_100384/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100419": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100419/certificate.pem.crt",
+        "private_key": "certs/DEV_100419/private.pem.key",
+        "root_ca": "certs/DEV_100419/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100426": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100426/certificate.pem.crt",
+        "private_key": "certs/DEV_100426/private.pem.key",
+        "root_ca": "certs/DEV_100426/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100454": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100454/certificate.pem.crt",
+        "private_key": "certs/DEV_100454/private.pem.key",
+        "root_ca": "certs/DEV_100454/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100468": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100468/certificate.pem.crt",
+        "private_key": "certs/DEV_100468/private.pem.key",
+        "root_ca": "certs/DEV_100468/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100524": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100524/certificate.pem.crt",
+        "private_key": "certs/DEV_100524/private.pem.key",
+        "root_ca": "certs/DEV_100524/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100545": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100545/certificate.pem.crt",
+        "private_key": "certs/DEV_100545/private.pem.key",
+        "root_ca": "certs/DEV_100545/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100566": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100566/certificate.pem.crt",
+        "private_key": "certs/DEV_100566/private.pem.key",
+        "root_ca": "certs/DEV_100566/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100573": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100573/certificate.pem.crt",
+        "private_key": "certs/DEV_100573/private.pem.key",
+        "root_ca": "certs/DEV_100573/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100650": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100650/certificate.pem.crt",
+        "private_key": "certs/DEV_100650/private.pem.key",
+        "root_ca": "certs/DEV_100650/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100720": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100720/certificate.pem.crt",
+        "private_key": "certs/DEV_100720/private.pem.key",
+        "root_ca": "certs/DEV_100720/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100748": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100748/certificate.pem.crt",
+        "private_key": "certs/DEV_100748/private.pem.key",
+        "root_ca": "certs/DEV_100748/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100769": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100769/certificate.pem.crt",
+        "private_key": "certs/DEV_100769/private.pem.key",
+        "root_ca": "certs/DEV_100769/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100790": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100790/certificate.pem.crt",
+        "private_key": "certs/DEV_100790/private.pem.key",
+        "root_ca": "certs/DEV_100790/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100839": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100839/certificate.pem.crt",
+        "private_key": "certs/DEV_100839/private.pem.key",
+        "root_ca": "certs/DEV_100839/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100853": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100853/certificate.pem.crt",
+        "private_key": "certs/DEV_100853/private.pem.key",
+        "root_ca": "certs/DEV_100853/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100930": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100930/certificate.pem.crt",
+        "private_key": "certs/DEV_100930/private.pem.key",
+        "root_ca": "certs/DEV_100930/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_100965": {
+      "certificate_files": {
+        "certificate": "certs/DEV_100965/certificate.pem.crt",
+        "private_key": "certs/DEV_100965/private.pem.key",
+        "root_ca": "certs/DEV_100965/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101007": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101007/certificate.pem.crt",
+        "private_key": "certs/DEV_101007/private.pem.key",
+        "root_ca": "certs/DEV_101007/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101042": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101042/certificate.pem.crt",
+        "private_key": "certs/DEV_101042/private.pem.key",
+        "root_ca": "certs/DEV_101042/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101049": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101049/certificate.pem.crt",
+        "private_key": "certs/DEV_101049/private.pem.key",
+        "root_ca": "certs/DEV_101049/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101182": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101182/certificate.pem.crt",
+        "private_key": "certs/DEV_101182/private.pem.key",
+        "root_ca": "certs/DEV_101182/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101210": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101210/certificate.pem.crt",
+        "private_key": "certs/DEV_101210/private.pem.key",
+        "root_ca": "certs/DEV_101210/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101245": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101245/certificate.pem.crt",
+        "private_key": "certs/DEV_101245/private.pem.key",
+        "root_ca": "certs/DEV_101245/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101343": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101343/certificate.pem.crt",
+        "private_key": "certs/DEV_101343/private.pem.key",
+        "root_ca": "certs/DEV_101343/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101378": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101378/certificate.pem.crt",
+        "private_key": "certs/DEV_101378/private.pem.key",
+        "root_ca": "certs/DEV_101378/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101399": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101399/certificate.pem.crt",
+        "private_key": "certs/DEV_101399/private.pem.key",
+        "root_ca": "certs/DEV_101399/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101434": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101434/certificate.pem.crt",
+        "private_key": "certs/DEV_101434/private.pem.key",
+        "root_ca": "certs/DEV_101434/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101476": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101476/certificate.pem.crt",
+        "private_key": "certs/DEV_101476/private.pem.key",
+        "root_ca": "certs/DEV_101476/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101483": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101483/certificate.pem.crt",
+        "private_key": "certs/DEV_101483/private.pem.key",
+        "root_ca": "certs/DEV_101483/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101497": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101497/certificate.pem.crt",
+        "private_key": "certs/DEV_101497/private.pem.key",
+        "root_ca": "certs/DEV_101497/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101511": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101511/certificate.pem.crt",
+        "private_key": "certs/DEV_101511/private.pem.key",
+        "root_ca": "certs/DEV_101511/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101539": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101539/certificate.pem.crt",
+        "private_key": "certs/DEV_101539/private.pem.key",
+        "root_ca": "certs/DEV_101539/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101602": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101602/certificate.pem.crt",
+        "private_key": "certs/DEV_101602/private.pem.key",
+        "root_ca": "certs/DEV_101602/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101707": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101707/certificate.pem.crt",
+        "private_key": "certs/DEV_101707/private.pem.key",
+        "root_ca": "certs/DEV_101707/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101749": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101749/certificate.pem.crt",
+        "private_key": "certs/DEV_101749/private.pem.key",
+        "root_ca": "certs/DEV_101749/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101798": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101798/certificate.pem.crt",
+        "private_key": "certs/DEV_101798/private.pem.key",
+        "root_ca": "certs/DEV_101798/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101910": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101910/certificate.pem.crt",
+        "private_key": "certs/DEV_101910/private.pem.key",
+        "root_ca": "certs/DEV_101910/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101938": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101938/certificate.pem.crt",
+        "private_key": "certs/DEV_101938/private.pem.key",
+        "root_ca": "certs/DEV_101938/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101945": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101945/certificate.pem.crt",
+        "private_key": "certs/DEV_101945/private.pem.key",
+        "root_ca": "certs/DEV_101945/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_101966": {
+      "certificate_files": {
+        "certificate": "certs/DEV_101966/certificate.pem.crt",
+        "private_key": "certs/DEV_101966/private.pem.key",
+        "root_ca": "certs/DEV_101966/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102008": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102008/certificate.pem.crt",
+        "private_key": "certs/DEV_102008/private.pem.key",
+        "root_ca": "certs/DEV_102008/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102036": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102036/certificate.pem.crt",
+        "private_key": "certs/DEV_102036/private.pem.key",
+        "root_ca": "certs/DEV_102036/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102071": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102071/certificate.pem.crt",
+        "private_key": "certs/DEV_102071/private.pem.key",
+        "root_ca": "certs/DEV_102071/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102099": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102099/certificate.pem.crt",
+        "private_key": "certs/DEV_102099/private.pem.key",
+        "root_ca": "certs/DEV_102099/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102281": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102281/certificate.pem.crt",
+        "private_key": "certs/DEV_102281/private.pem.key",
+        "root_ca": "certs/DEV_102281/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102295": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102295/certificate.pem.crt",
+        "private_key": "certs/DEV_102295/private.pem.key",
+        "root_ca": "certs/DEV_102295/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102337": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102337/certificate.pem.crt",
+        "private_key": "certs/DEV_102337/private.pem.key",
+        "root_ca": "certs/DEV_102337/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102414": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102414/certificate.pem.crt",
+        "private_key": "certs/DEV_102414/private.pem.key",
+        "root_ca": "certs/DEV_102414/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102456": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102456/certificate.pem.crt",
+        "private_key": "certs/DEV_102456/private.pem.key",
+        "root_ca": "certs/DEV_102456/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102519": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102519/certificate.pem.crt",
+        "private_key": "certs/DEV_102519/private.pem.key",
+        "root_ca": "certs/DEV_102519/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102638": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102638/certificate.pem.crt",
+        "private_key": "certs/DEV_102638/private.pem.key",
+        "root_ca": "certs/DEV_102638/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102722": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102722/certificate.pem.crt",
+        "private_key": "certs/DEV_102722/private.pem.key",
+        "root_ca": "certs/DEV_102722/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102750": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102750/certificate.pem.crt",
+        "private_key": "certs/DEV_102750/private.pem.key",
+        "root_ca": "certs/DEV_102750/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102771": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102771/certificate.pem.crt",
+        "private_key": "certs/DEV_102771/private.pem.key",
+        "root_ca": "certs/DEV_102771/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102834": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102834/certificate.pem.crt",
+        "private_key": "certs/DEV_102834/private.pem.key",
+        "root_ca": "certs/DEV_102834/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102848": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102848/certificate.pem.crt",
+        "private_key": "certs/DEV_102848/private.pem.key",
+        "root_ca": "certs/DEV_102848/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102890": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102890/certificate.pem.crt",
+        "private_key": "certs/DEV_102890/private.pem.key",
+        "root_ca": "certs/DEV_102890/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102932": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102932/certificate.pem.crt",
+        "private_key": "certs/DEV_102932/private.pem.key",
+        "root_ca": "certs/DEV_102932/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102946": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102946/certificate.pem.crt",
+        "private_key": "certs/DEV_102946/private.pem.key",
+        "root_ca": "certs/DEV_102946/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_102981": {
+      "certificate_files": {
+        "certificate": "certs/DEV_102981/certificate.pem.crt",
+        "private_key": "certs/DEV_102981/private.pem.key",
+        "root_ca": "certs/DEV_102981/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103037": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103037/certificate.pem.crt",
+        "private_key": "certs/DEV_103037/private.pem.key",
+        "root_ca": "certs/DEV_103037/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103247": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103247/certificate.pem.crt",
+        "private_key": "certs/DEV_103247/private.pem.key",
+        "root_ca": "certs/DEV_103247/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103366": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103366/certificate.pem.crt",
+        "private_key": "certs/DEV_103366/private.pem.key",
+        "root_ca": "certs/DEV_103366/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103373": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103373/certificate.pem.crt",
+        "private_key": "certs/DEV_103373/private.pem.key",
+        "root_ca": "certs/DEV_103373/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103380": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103380/certificate.pem.crt",
+        "private_key": "certs/DEV_103380/private.pem.key",
+        "root_ca": "certs/DEV_103380/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103471": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103471/certificate.pem.crt",
+        "private_key": "certs/DEV_103471/private.pem.key",
+        "root_ca": "certs/DEV_103471/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103611": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103611/certificate.pem.crt",
+        "private_key": "certs/DEV_103611/private.pem.key",
+        "root_ca": "certs/DEV_103611/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103646": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103646/certificate.pem.crt",
+        "private_key": "certs/DEV_103646/private.pem.key",
+        "root_ca": "certs/DEV_103646/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103723": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103723/certificate.pem.crt",
+        "private_key": "certs/DEV_103723/private.pem.key",
+        "root_ca": "certs/DEV_103723/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103730": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103730/certificate.pem.crt",
+        "private_key": "certs/DEV_103730/private.pem.key",
+        "root_ca": "certs/DEV_103730/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103793": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103793/certificate.pem.crt",
+        "private_key": "certs/DEV_103793/private.pem.key",
+        "root_ca": "certs/DEV_103793/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103828": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103828/certificate.pem.crt",
+        "private_key": "certs/DEV_103828/private.pem.key",
+        "root_ca": "certs/DEV_103828/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103849": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103849/certificate.pem.crt",
+        "private_key": "certs/DEV_103849/private.pem.key",
+        "root_ca": "certs/DEV_103849/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103891": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103891/certificate.pem.crt",
+        "private_key": "certs/DEV_103891/private.pem.key",
+        "root_ca": "certs/DEV_103891/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103905": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103905/certificate.pem.crt",
+        "private_key": "certs/DEV_103905/private.pem.key",
+        "root_ca": "certs/DEV_103905/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_103947": {
+      "certificate_files": {
+        "certificate": "certs/DEV_103947/certificate.pem.crt",
+        "private_key": "certs/DEV_103947/private.pem.key",
+        "root_ca": "certs/DEV_103947/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104003": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104003/certificate.pem.crt",
+        "private_key": "certs/DEV_104003/private.pem.key",
+        "root_ca": "certs/DEV_104003/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104066": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104066/certificate.pem.crt",
+        "private_key": "certs/DEV_104066/private.pem.key",
+        "root_ca": "certs/DEV_104066/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104185": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104185/certificate.pem.crt",
+        "private_key": "certs/DEV_104185/private.pem.key",
+        "root_ca": "certs/DEV_104185/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104220": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104220/certificate.pem.crt",
+        "private_key": "certs/DEV_104220/private.pem.key",
+        "root_ca": "certs/DEV_104220/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104269": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104269/certificate.pem.crt",
+        "private_key": "certs/DEV_104269/private.pem.key",
+        "root_ca": "certs/DEV_104269/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104283": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104283/certificate.pem.crt",
+        "private_key": "certs/DEV_104283/private.pem.key",
+        "root_ca": "certs/DEV_104283/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104381": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104381/certificate.pem.crt",
+        "private_key": "certs/DEV_104381/private.pem.key",
+        "root_ca": "certs/DEV_104381/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104430": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104430/certificate.pem.crt",
+        "private_key": "certs/DEV_104430/private.pem.key",
+        "root_ca": "certs/DEV_104430/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104472": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104472/certificate.pem.crt",
+        "private_key": "certs/DEV_104472/private.pem.key",
+        "root_ca": "certs/DEV_104472/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104493": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104493/certificate.pem.crt",
+        "private_key": "certs/DEV_104493/private.pem.key",
+        "root_ca": "certs/DEV_104493/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104514": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104514/certificate.pem.crt",
+        "private_key": "certs/DEV_104514/private.pem.key",
+        "root_ca": "certs/DEV_104514/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104626": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104626/certificate.pem.crt",
+        "private_key": "certs/DEV_104626/private.pem.key",
+        "root_ca": "certs/DEV_104626/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104640": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104640/certificate.pem.crt",
+        "private_key": "certs/DEV_104640/private.pem.key",
+        "root_ca": "certs/DEV_104640/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104647": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104647/certificate.pem.crt",
+        "private_key": "certs/DEV_104647/private.pem.key",
+        "root_ca": "certs/DEV_104647/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104745": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104745/certificate.pem.crt",
+        "private_key": "certs/DEV_104745/private.pem.key",
+        "root_ca": "certs/DEV_104745/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104773": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104773/certificate.pem.crt",
+        "private_key": "certs/DEV_104773/private.pem.key",
+        "root_ca": "certs/DEV_104773/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104780": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104780/certificate.pem.crt",
+        "private_key": "certs/DEV_104780/private.pem.key",
+        "root_ca": "certs/DEV_104780/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104794": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104794/certificate.pem.crt",
+        "private_key": "certs/DEV_104794/private.pem.key",
+        "root_ca": "certs/DEV_104794/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104801": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104801/certificate.pem.crt",
+        "private_key": "certs/DEV_104801/private.pem.key",
+        "root_ca": "certs/DEV_104801/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104955": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104955/certificate.pem.crt",
+        "private_key": "certs/DEV_104955/private.pem.key",
+        "root_ca": "certs/DEV_104955/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_104976": {
+      "certificate_files": {
+        "certificate": "certs/DEV_104976/certificate.pem.crt",
+        "private_key": "certs/DEV_104976/private.pem.key",
+        "root_ca": "certs/DEV_104976/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105018": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105018/certificate.pem.crt",
+        "private_key": "certs/DEV_105018/private.pem.key",
+        "root_ca": "certs/DEV_105018/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105053": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105053/certificate.pem.crt",
+        "private_key": "certs/DEV_105053/private.pem.key",
+        "root_ca": "certs/DEV_105053/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105074": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105074/certificate.pem.crt",
+        "private_key": "certs/DEV_105074/private.pem.key",
+        "root_ca": "certs/DEV_105074/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105102": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105102/certificate.pem.crt",
+        "private_key": "certs/DEV_105102/private.pem.key",
+        "root_ca": "certs/DEV_105102/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105144": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105144/certificate.pem.crt",
+        "private_key": "certs/DEV_105144/private.pem.key",
+        "root_ca": "certs/DEV_105144/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105172": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105172/certificate.pem.crt",
+        "private_key": "certs/DEV_105172/private.pem.key",
+        "root_ca": "certs/DEV_105172/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105214": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105214/certificate.pem.crt",
+        "private_key": "certs/DEV_105214/private.pem.key",
+        "root_ca": "certs/DEV_105214/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105221": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105221/certificate.pem.crt",
+        "private_key": "certs/DEV_105221/private.pem.key",
+        "root_ca": "certs/DEV_105221/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105235": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105235/certificate.pem.crt",
+        "private_key": "certs/DEV_105235/private.pem.key",
+        "root_ca": "certs/DEV_105235/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105256": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105256/certificate.pem.crt",
+        "private_key": "certs/DEV_105256/private.pem.key",
+        "root_ca": "certs/DEV_105256/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105284": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105284/certificate.pem.crt",
+        "private_key": "certs/DEV_105284/private.pem.key",
+        "root_ca": "certs/DEV_105284/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105312": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105312/certificate.pem.crt",
+        "private_key": "certs/DEV_105312/private.pem.key",
+        "root_ca": "certs/DEV_105312/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105347": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105347/certificate.pem.crt",
+        "private_key": "certs/DEV_105347/private.pem.key",
+        "root_ca": "certs/DEV_105347/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105480": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105480/certificate.pem.crt",
+        "private_key": "certs/DEV_105480/private.pem.key",
+        "root_ca": "certs/DEV_105480/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105494": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105494/certificate.pem.crt",
+        "private_key": "certs/DEV_105494/private.pem.key",
+        "root_ca": "certs/DEV_105494/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105578": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105578/certificate.pem.crt",
+        "private_key": "certs/DEV_105578/private.pem.key",
+        "root_ca": "certs/DEV_105578/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105585": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105585/certificate.pem.crt",
+        "private_key": "certs/DEV_105585/private.pem.key",
+        "root_ca": "certs/DEV_105585/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105634": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105634/certificate.pem.crt",
+        "private_key": "certs/DEV_105634/private.pem.key",
+        "root_ca": "certs/DEV_105634/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105676": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105676/certificate.pem.crt",
+        "private_key": "certs/DEV_105676/private.pem.key",
+        "root_ca": "certs/DEV_105676/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105760": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105760/certificate.pem.crt",
+        "private_key": "certs/DEV_105760/private.pem.key",
+        "root_ca": "certs/DEV_105760/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105767": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105767/certificate.pem.crt",
+        "private_key": "certs/DEV_105767/private.pem.key",
+        "root_ca": "certs/DEV_105767/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105809": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105809/certificate.pem.crt",
+        "private_key": "certs/DEV_105809/private.pem.key",
+        "root_ca": "certs/DEV_105809/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105816": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105816/certificate.pem.crt",
+        "private_key": "certs/DEV_105816/private.pem.key",
+        "root_ca": "certs/DEV_105816/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105886": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105886/certificate.pem.crt",
+        "private_key": "certs/DEV_105886/private.pem.key",
+        "root_ca": "certs/DEV_105886/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105893": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105893/certificate.pem.crt",
+        "private_key": "certs/DEV_105893/private.pem.key",
+        "root_ca": "certs/DEV_105893/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105963": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105963/certificate.pem.crt",
+        "private_key": "certs/DEV_105963/private.pem.key",
+        "root_ca": "certs/DEV_105963/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_105970": {
+      "certificate_files": {
+        "certificate": "certs/DEV_105970/certificate.pem.crt",
+        "private_key": "certs/DEV_105970/private.pem.key",
+        "root_ca": "certs/DEV_105970/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106033": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106033/certificate.pem.crt",
+        "private_key": "certs/DEV_106033/private.pem.key",
+        "root_ca": "certs/DEV_106033/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106075": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106075/certificate.pem.crt",
+        "private_key": "certs/DEV_106075/private.pem.key",
+        "root_ca": "certs/DEV_106075/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106103": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106103/certificate.pem.crt",
+        "private_key": "certs/DEV_106103/private.pem.key",
+        "root_ca": "certs/DEV_106103/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106180": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106180/certificate.pem.crt",
+        "private_key": "certs/DEV_106180/private.pem.key",
+        "root_ca": "certs/DEV_106180/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106306": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106306/certificate.pem.crt",
+        "private_key": "certs/DEV_106306/private.pem.key",
+        "root_ca": "certs/DEV_106306/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106320": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106320/certificate.pem.crt",
+        "private_key": "certs/DEV_106320/private.pem.key",
+        "root_ca": "certs/DEV_106320/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106341": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106341/certificate.pem.crt",
+        "private_key": "certs/DEV_106341/private.pem.key",
+        "root_ca": "certs/DEV_106341/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106376": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106376/certificate.pem.crt",
+        "private_key": "certs/DEV_106376/private.pem.key",
+        "root_ca": "certs/DEV_106376/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106383": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106383/certificate.pem.crt",
+        "private_key": "certs/DEV_106383/private.pem.key",
+        "root_ca": "certs/DEV_106383/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106439": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106439/certificate.pem.crt",
+        "private_key": "certs/DEV_106439/private.pem.key",
+        "root_ca": "certs/DEV_106439/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106530": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106530/certificate.pem.crt",
+        "private_key": "certs/DEV_106530/private.pem.key",
+        "root_ca": "certs/DEV_106530/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106537": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106537/certificate.pem.crt",
+        "private_key": "certs/DEV_106537/private.pem.key",
+        "root_ca": "certs/DEV_106537/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106558": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106558/certificate.pem.crt",
+        "private_key": "certs/DEV_106558/private.pem.key",
+        "root_ca": "certs/DEV_106558/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106565": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106565/certificate.pem.crt",
+        "private_key": "certs/DEV_106565/private.pem.key",
+        "root_ca": "certs/DEV_106565/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106572": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106572/certificate.pem.crt",
+        "private_key": "certs/DEV_106572/private.pem.key",
+        "root_ca": "certs/DEV_106572/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106663": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106663/certificate.pem.crt",
+        "private_key": "certs/DEV_106663/private.pem.key",
+        "root_ca": "certs/DEV_106663/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106677": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106677/certificate.pem.crt",
+        "private_key": "certs/DEV_106677/private.pem.key",
+        "root_ca": "certs/DEV_106677/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106705": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106705/certificate.pem.crt",
+        "private_key": "certs/DEV_106705/private.pem.key",
+        "root_ca": "certs/DEV_106705/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106719": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106719/certificate.pem.crt",
+        "private_key": "certs/DEV_106719/private.pem.key",
+        "root_ca": "certs/DEV_106719/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106803": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106803/certificate.pem.crt",
+        "private_key": "certs/DEV_106803/private.pem.key",
+        "root_ca": "certs/DEV_106803/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106810": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106810/certificate.pem.crt",
+        "private_key": "certs/DEV_106810/private.pem.key",
+        "root_ca": "certs/DEV_106810/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106852": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106852/certificate.pem.crt",
+        "private_key": "certs/DEV_106852/private.pem.key",
+        "root_ca": "certs/DEV_106852/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106859": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106859/certificate.pem.crt",
+        "private_key": "certs/DEV_106859/private.pem.key",
+        "root_ca": "certs/DEV_106859/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106894": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106894/certificate.pem.crt",
+        "private_key": "certs/DEV_106894/private.pem.key",
+        "root_ca": "certs/DEV_106894/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106943": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106943/certificate.pem.crt",
+        "private_key": "certs/DEV_106943/private.pem.key",
+        "root_ca": "certs/DEV_106943/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106964": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106964/certificate.pem.crt",
+        "private_key": "certs/DEV_106964/private.pem.key",
+        "root_ca": "certs/DEV_106964/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_106992": {
+      "certificate_files": {
+        "certificate": "certs/DEV_106992/certificate.pem.crt",
+        "private_key": "certs/DEV_106992/private.pem.key",
+        "root_ca": "certs/DEV_106992/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107153": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107153/certificate.pem.crt",
+        "private_key": "certs/DEV_107153/private.pem.key",
+        "root_ca": "certs/DEV_107153/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107181": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107181/certificate.pem.crt",
+        "private_key": "certs/DEV_107181/private.pem.key",
+        "root_ca": "certs/DEV_107181/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107202": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107202/certificate.pem.crt",
+        "private_key": "certs/DEV_107202/private.pem.key",
+        "root_ca": "certs/DEV_107202/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107216": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107216/certificate.pem.crt",
+        "private_key": "certs/DEV_107216/private.pem.key",
+        "root_ca": "certs/DEV_107216/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107272": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107272/certificate.pem.crt",
+        "private_key": "certs/DEV_107272/private.pem.key",
+        "root_ca": "certs/DEV_107272/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107293": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107293/certificate.pem.crt",
+        "private_key": "certs/DEV_107293/private.pem.key",
+        "root_ca": "certs/DEV_107293/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107342": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107342/certificate.pem.crt",
+        "private_key": "certs/DEV_107342/private.pem.key",
+        "root_ca": "certs/DEV_107342/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107349": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107349/certificate.pem.crt",
+        "private_key": "certs/DEV_107349/private.pem.key",
+        "root_ca": "certs/DEV_107349/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107461": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107461/certificate.pem.crt",
+        "private_key": "certs/DEV_107461/private.pem.key",
+        "root_ca": "certs/DEV_107461/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107503": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107503/certificate.pem.crt",
+        "private_key": "certs/DEV_107503/private.pem.key",
+        "root_ca": "certs/DEV_107503/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107594": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107594/certificate.pem.crt",
+        "private_key": "certs/DEV_107594/private.pem.key",
+        "root_ca": "certs/DEV_107594/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107615": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107615/certificate.pem.crt",
+        "private_key": "certs/DEV_107615/private.pem.key",
+        "root_ca": "certs/DEV_107615/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107720": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107720/certificate.pem.crt",
+        "private_key": "certs/DEV_107720/private.pem.key",
+        "root_ca": "certs/DEV_107720/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107727": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107727/certificate.pem.crt",
+        "private_key": "certs/DEV_107727/private.pem.key",
+        "root_ca": "certs/DEV_107727/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107755": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107755/certificate.pem.crt",
+        "private_key": "certs/DEV_107755/private.pem.key",
+        "root_ca": "certs/DEV_107755/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107874": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107874/certificate.pem.crt",
+        "private_key": "certs/DEV_107874/private.pem.key",
+        "root_ca": "certs/DEV_107874/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_107916": {
+      "certificate_files": {
+        "certificate": "certs/DEV_107916/certificate.pem.crt",
+        "private_key": "certs/DEV_107916/private.pem.key",
+        "root_ca": "certs/DEV_107916/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108063": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108063/certificate.pem.crt",
+        "private_key": "certs/DEV_108063/private.pem.key",
+        "root_ca": "certs/DEV_108063/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108070": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108070/certificate.pem.crt",
+        "private_key": "certs/DEV_108070/private.pem.key",
+        "root_ca": "certs/DEV_108070/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108098": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108098/certificate.pem.crt",
+        "private_key": "certs/DEV_108098/private.pem.key",
+        "root_ca": "certs/DEV_108098/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108189": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108189/certificate.pem.crt",
+        "private_key": "certs/DEV_108189/private.pem.key",
+        "root_ca": "certs/DEV_108189/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108245": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108245/certificate.pem.crt",
+        "private_key": "certs/DEV_108245/private.pem.key",
+        "root_ca": "certs/DEV_108245/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108294": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108294/certificate.pem.crt",
+        "private_key": "certs/DEV_108294/private.pem.key",
+        "root_ca": "certs/DEV_108294/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108322": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108322/certificate.pem.crt",
+        "private_key": "certs/DEV_108322/private.pem.key",
+        "root_ca": "certs/DEV_108322/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108329": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108329/certificate.pem.crt",
+        "private_key": "certs/DEV_108329/private.pem.key",
+        "root_ca": "certs/DEV_108329/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108441": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108441/certificate.pem.crt",
+        "private_key": "certs/DEV_108441/private.pem.key",
+        "root_ca": "certs/DEV_108441/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108455": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108455/certificate.pem.crt",
+        "private_key": "certs/DEV_108455/private.pem.key",
+        "root_ca": "certs/DEV_108455/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108504": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108504/certificate.pem.crt",
+        "private_key": "certs/DEV_108504/private.pem.key",
+        "root_ca": "certs/DEV_108504/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108553": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108553/certificate.pem.crt",
+        "private_key": "certs/DEV_108553/private.pem.key",
+        "root_ca": "certs/DEV_108553/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108560": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108560/certificate.pem.crt",
+        "private_key": "certs/DEV_108560/private.pem.key",
+        "root_ca": "certs/DEV_108560/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108574": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108574/certificate.pem.crt",
+        "private_key": "certs/DEV_108574/private.pem.key",
+        "root_ca": "certs/DEV_108574/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108581": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108581/certificate.pem.crt",
+        "private_key": "certs/DEV_108581/private.pem.key",
+        "root_ca": "certs/DEV_108581/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108637": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108637/certificate.pem.crt",
+        "private_key": "certs/DEV_108637/private.pem.key",
+        "root_ca": "certs/DEV_108637/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108665": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108665/certificate.pem.crt",
+        "private_key": "certs/DEV_108665/private.pem.key",
+        "root_ca": "certs/DEV_108665/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108707": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108707/certificate.pem.crt",
+        "private_key": "certs/DEV_108707/private.pem.key",
+        "root_ca": "certs/DEV_108707/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_108882": {
+      "certificate_files": {
+        "certificate": "certs/DEV_108882/certificate.pem.crt",
+        "private_key": "certs/DEV_108882/private.pem.key",
+        "root_ca": "certs/DEV_108882/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117212": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117212/certificate.pem.crt",
+        "private_key": "certs/DEV_117212/private.pem.key",
+        "root_ca": "certs/DEV_117212/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117240": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117240/certificate.pem.crt",
+        "private_key": "certs/DEV_117240/private.pem.key",
+        "root_ca": "certs/DEV_117240/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117247": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117247/certificate.pem.crt",
+        "private_key": "certs/DEV_117247/private.pem.key",
+        "root_ca": "certs/DEV_117247/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117282": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117282/certificate.pem.crt",
+        "private_key": "certs/DEV_117282/private.pem.key",
+        "root_ca": "certs/DEV_117282/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117317": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117317/certificate.pem.crt",
+        "private_key": "certs/DEV_117317/private.pem.key",
+        "root_ca": "certs/DEV_117317/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117345": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117345/certificate.pem.crt",
+        "private_key": "certs/DEV_117345/private.pem.key",
+        "root_ca": "certs/DEV_117345/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117415": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117415/certificate.pem.crt",
+        "private_key": "certs/DEV_117415/private.pem.key",
+        "root_ca": "certs/DEV_117415/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117429": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117429/certificate.pem.crt",
+        "private_key": "certs/DEV_117429/private.pem.key",
+        "root_ca": "certs/DEV_117429/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117457": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117457/certificate.pem.crt",
+        "private_key": "certs/DEV_117457/private.pem.key",
+        "root_ca": "certs/DEV_117457/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117485": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117485/certificate.pem.crt",
+        "private_key": "certs/DEV_117485/private.pem.key",
+        "root_ca": "certs/DEV_117485/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117534": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117534/certificate.pem.crt",
+        "private_key": "certs/DEV_117534/private.pem.key",
+        "root_ca": "certs/DEV_117534/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117590": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117590/certificate.pem.crt",
+        "private_key": "certs/DEV_117590/private.pem.key",
+        "root_ca": "certs/DEV_117590/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117611": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117611/certificate.pem.crt",
+        "private_key": "certs/DEV_117611/private.pem.key",
+        "root_ca": "certs/DEV_117611/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117639": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117639/certificate.pem.crt",
+        "private_key": "certs/DEV_117639/private.pem.key",
+        "root_ca": "certs/DEV_117639/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117695": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117695/certificate.pem.crt",
+        "private_key": "certs/DEV_117695/private.pem.key",
+        "root_ca": "certs/DEV_117695/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117709": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117709/certificate.pem.crt",
+        "private_key": "certs/DEV_117709/private.pem.key",
+        "root_ca": "certs/DEV_117709/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117723": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117723/certificate.pem.crt",
+        "private_key": "certs/DEV_117723/private.pem.key",
+        "root_ca": "certs/DEV_117723/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117744": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117744/certificate.pem.crt",
+        "private_key": "certs/DEV_117744/private.pem.key",
+        "root_ca": "certs/DEV_117744/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117828": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117828/certificate.pem.crt",
+        "private_key": "certs/DEV_117828/private.pem.key",
+        "root_ca": "certs/DEV_117828/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117849": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117849/certificate.pem.crt",
+        "private_key": "certs/DEV_117849/private.pem.key",
+        "root_ca": "certs/DEV_117849/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117870": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117870/certificate.pem.crt",
+        "private_key": "certs/DEV_117870/private.pem.key",
+        "root_ca": "certs/DEV_117870/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117933": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117933/certificate.pem.crt",
+        "private_key": "certs/DEV_117933/private.pem.key",
+        "root_ca": "certs/DEV_117933/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117947": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117947/certificate.pem.crt",
+        "private_key": "certs/DEV_117947/private.pem.key",
+        "root_ca": "certs/DEV_117947/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_117961": {
+      "certificate_files": {
+        "certificate": "certs/DEV_117961/certificate.pem.crt",
+        "private_key": "certs/DEV_117961/private.pem.key",
+        "root_ca": "certs/DEV_117961/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118038": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118038/certificate.pem.crt",
+        "private_key": "certs/DEV_118038/private.pem.key",
+        "root_ca": "certs/DEV_118038/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118052": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118052/certificate.pem.crt",
+        "private_key": "certs/DEV_118052/private.pem.key",
+        "root_ca": "certs/DEV_118052/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118087": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118087/certificate.pem.crt",
+        "private_key": "certs/DEV_118087/private.pem.key",
+        "root_ca": "certs/DEV_118087/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118136": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118136/certificate.pem.crt",
+        "private_key": "certs/DEV_118136/private.pem.key",
+        "root_ca": "certs/DEV_118136/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118255": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118255/certificate.pem.crt",
+        "private_key": "certs/DEV_118255/private.pem.key",
+        "root_ca": "certs/DEV_118255/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118339": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118339/certificate.pem.crt",
+        "private_key": "certs/DEV_118339/private.pem.key",
+        "root_ca": "certs/DEV_118339/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118423": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118423/certificate.pem.crt",
+        "private_key": "certs/DEV_118423/private.pem.key",
+        "root_ca": "certs/DEV_118423/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118437": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118437/certificate.pem.crt",
+        "private_key": "certs/DEV_118437/private.pem.key",
+        "root_ca": "certs/DEV_118437/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118444": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118444/certificate.pem.crt",
+        "private_key": "certs/DEV_118444/private.pem.key",
+        "root_ca": "certs/DEV_118444/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118486": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118486/certificate.pem.crt",
+        "private_key": "certs/DEV_118486/private.pem.key",
+        "root_ca": "certs/DEV_118486/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118570": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118570/certificate.pem.crt",
+        "private_key": "certs/DEV_118570/private.pem.key",
+        "root_ca": "certs/DEV_118570/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118626": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118626/certificate.pem.crt",
+        "private_key": "certs/DEV_118626/private.pem.key",
+        "root_ca": "certs/DEV_118626/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118640": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118640/certificate.pem.crt",
+        "private_key": "certs/DEV_118640/private.pem.key",
+        "root_ca": "certs/DEV_118640/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118731": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118731/certificate.pem.crt",
+        "private_key": "certs/DEV_118731/private.pem.key",
+        "root_ca": "certs/DEV_118731/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118773": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118773/certificate.pem.crt",
+        "private_key": "certs/DEV_118773/private.pem.key",
+        "root_ca": "certs/DEV_118773/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118780": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118780/certificate.pem.crt",
+        "private_key": "certs/DEV_118780/private.pem.key",
+        "root_ca": "certs/DEV_118780/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118857": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118857/certificate.pem.crt",
+        "private_key": "certs/DEV_118857/private.pem.key",
+        "root_ca": "certs/DEV_118857/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118885": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118885/certificate.pem.crt",
+        "private_key": "certs/DEV_118885/private.pem.key",
+        "root_ca": "certs/DEV_118885/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118913": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118913/certificate.pem.crt",
+        "private_key": "certs/DEV_118913/private.pem.key",
+        "root_ca": "certs/DEV_118913/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118948": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118948/certificate.pem.crt",
+        "private_key": "certs/DEV_118948/private.pem.key",
+        "root_ca": "certs/DEV_118948/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118962": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118962/certificate.pem.crt",
+        "private_key": "certs/DEV_118962/private.pem.key",
+        "root_ca": "certs/DEV_118962/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118976": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118976/certificate.pem.crt",
+        "private_key": "certs/DEV_118976/private.pem.key",
+        "root_ca": "certs/DEV_118976/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_118983": {
+      "certificate_files": {
+        "certificate": "certs/DEV_118983/certificate.pem.crt",
+        "private_key": "certs/DEV_118983/private.pem.key",
+        "root_ca": "certs/DEV_118983/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119004": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119004/certificate.pem.crt",
+        "private_key": "certs/DEV_119004/private.pem.key",
+        "root_ca": "certs/DEV_119004/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119025": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119025/certificate.pem.crt",
+        "private_key": "certs/DEV_119025/private.pem.key",
+        "root_ca": "certs/DEV_119025/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119032": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119032/certificate.pem.crt",
+        "private_key": "certs/DEV_119032/private.pem.key",
+        "root_ca": "certs/DEV_119032/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119137": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119137/certificate.pem.crt",
+        "private_key": "certs/DEV_119137/private.pem.key",
+        "root_ca": "certs/DEV_119137/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119165": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119165/certificate.pem.crt",
+        "private_key": "certs/DEV_119165/private.pem.key",
+        "root_ca": "certs/DEV_119165/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119186": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119186/certificate.pem.crt",
+        "private_key": "certs/DEV_119186/private.pem.key",
+        "root_ca": "certs/DEV_119186/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119193": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119193/certificate.pem.crt",
+        "private_key": "certs/DEV_119193/private.pem.key",
+        "root_ca": "certs/DEV_119193/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119214": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119214/certificate.pem.crt",
+        "private_key": "certs/DEV_119214/private.pem.key",
+        "root_ca": "certs/DEV_119214/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119291": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119291/certificate.pem.crt",
+        "private_key": "certs/DEV_119291/private.pem.key",
+        "root_ca": "certs/DEV_119291/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119305": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119305/certificate.pem.crt",
+        "private_key": "certs/DEV_119305/private.pem.key",
+        "root_ca": "certs/DEV_119305/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119375": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119375/certificate.pem.crt",
+        "private_key": "certs/DEV_119375/private.pem.key",
+        "root_ca": "certs/DEV_119375/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119438": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119438/certificate.pem.crt",
+        "private_key": "certs/DEV_119438/private.pem.key",
+        "root_ca": "certs/DEV_119438/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119445": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119445/certificate.pem.crt",
+        "private_key": "certs/DEV_119445/private.pem.key",
+        "root_ca": "certs/DEV_119445/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119578": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119578/certificate.pem.crt",
+        "private_key": "certs/DEV_119578/private.pem.key",
+        "root_ca": "certs/DEV_119578/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119592": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119592/certificate.pem.crt",
+        "private_key": "certs/DEV_119592/private.pem.key",
+        "root_ca": "certs/DEV_119592/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119662": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119662/certificate.pem.crt",
+        "private_key": "certs/DEV_119662/private.pem.key",
+        "root_ca": "certs/DEV_119662/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119669": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119669/certificate.pem.crt",
+        "private_key": "certs/DEV_119669/private.pem.key",
+        "root_ca": "certs/DEV_119669/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119697": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119697/certificate.pem.crt",
+        "private_key": "certs/DEV_119697/private.pem.key",
+        "root_ca": "certs/DEV_119697/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119823": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119823/certificate.pem.crt",
+        "private_key": "certs/DEV_119823/private.pem.key",
+        "root_ca": "certs/DEV_119823/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_119907": {
+      "certificate_files": {
+        "certificate": "certs/DEV_119907/certificate.pem.crt",
+        "private_key": "certs/DEV_119907/private.pem.key",
+        "root_ca": "certs/DEV_119907/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120089": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120089/certificate.pem.crt",
+        "private_key": "certs/DEV_120089/private.pem.key",
+        "root_ca": "certs/DEV_120089/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120103": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120103/certificate.pem.crt",
+        "private_key": "certs/DEV_120103/private.pem.key",
+        "root_ca": "certs/DEV_120103/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120161": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120161/certificate.pem.crt",
+        "private_key": "certs/DEV_120161/private.pem.key",
+        "root_ca": "certs/DEV_120161/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120180": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120180/certificate.pem.crt",
+        "private_key": "certs/DEV_120180/private.pem.key",
+        "root_ca": "certs/DEV_120180/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120243": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120243/certificate.pem.crt",
+        "private_key": "certs/DEV_120243/private.pem.key",
+        "root_ca": "certs/DEV_120243/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120341": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120341/certificate.pem.crt",
+        "private_key": "certs/DEV_120341/private.pem.key",
+        "root_ca": "certs/DEV_120341/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120362": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120362/certificate.pem.crt",
+        "private_key": "certs/DEV_120362/private.pem.key",
+        "root_ca": "certs/DEV_120362/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120376": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120376/certificate.pem.crt",
+        "private_key": "certs/DEV_120376/private.pem.key",
+        "root_ca": "certs/DEV_120376/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120390": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120390/certificate.pem.crt",
+        "private_key": "certs/DEV_120390/private.pem.key",
+        "root_ca": "certs/DEV_120390/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120397": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120397/certificate.pem.crt",
+        "private_key": "certs/DEV_120397/private.pem.key",
+        "root_ca": "certs/DEV_120397/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120418": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120418/certificate.pem.crt",
+        "private_key": "certs/DEV_120418/private.pem.key",
+        "root_ca": "certs/DEV_120418/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120439": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120439/certificate.pem.crt",
+        "private_key": "certs/DEV_120439/private.pem.key",
+        "root_ca": "certs/DEV_120439/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120460": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120460/certificate.pem.crt",
+        "private_key": "certs/DEV_120460/private.pem.key",
+        "root_ca": "certs/DEV_120460/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120474": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120474/certificate.pem.crt",
+        "private_key": "certs/DEV_120474/private.pem.key",
+        "root_ca": "certs/DEV_120474/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120558": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120558/certificate.pem.crt",
+        "private_key": "certs/DEV_120558/private.pem.key",
+        "root_ca": "certs/DEV_120558/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120572": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120572/certificate.pem.crt",
+        "private_key": "certs/DEV_120572/private.pem.key",
+        "root_ca": "certs/DEV_120572/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120712": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120712/certificate.pem.crt",
+        "private_key": "certs/DEV_120712/private.pem.key",
+        "root_ca": "certs/DEV_120712/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120761": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120761/certificate.pem.crt",
+        "private_key": "certs/DEV_120761/private.pem.key",
+        "root_ca": "certs/DEV_120761/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120768": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120768/certificate.pem.crt",
+        "private_key": "certs/DEV_120768/private.pem.key",
+        "root_ca": "certs/DEV_120768/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120859": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120859/certificate.pem.crt",
+        "private_key": "certs/DEV_120859/private.pem.key",
+        "root_ca": "certs/DEV_120859/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120880": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120880/certificate.pem.crt",
+        "private_key": "certs/DEV_120880/private.pem.key",
+        "root_ca": "certs/DEV_120880/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120887": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120887/certificate.pem.crt",
+        "private_key": "certs/DEV_120887/private.pem.key",
+        "root_ca": "certs/DEV_120887/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120929": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120929/certificate.pem.crt",
+        "private_key": "certs/DEV_120929/private.pem.key",
+        "root_ca": "certs/DEV_120929/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_120999": {
+      "certificate_files": {
+        "certificate": "certs/DEV_120999/certificate.pem.crt",
+        "private_key": "certs/DEV_120999/private.pem.key",
+        "root_ca": "certs/DEV_120999/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121034": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121034/certificate.pem.crt",
+        "private_key": "certs/DEV_121034/private.pem.key",
+        "root_ca": "certs/DEV_121034/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121041": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121041/certificate.pem.crt",
+        "private_key": "certs/DEV_121041/private.pem.key",
+        "root_ca": "certs/DEV_121041/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121223": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121223/certificate.pem.crt",
+        "private_key": "certs/DEV_121223/private.pem.key",
+        "root_ca": "certs/DEV_121223/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121251": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121251/certificate.pem.crt",
+        "private_key": "certs/DEV_121251/private.pem.key",
+        "root_ca": "certs/DEV_121251/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121286": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121286/certificate.pem.crt",
+        "private_key": "certs/DEV_121286/private.pem.key",
+        "root_ca": "certs/DEV_121286/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121391": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121391/certificate.pem.crt",
+        "private_key": "certs/DEV_121391/private.pem.key",
+        "root_ca": "certs/DEV_121391/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121412": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121412/certificate.pem.crt",
+        "private_key": "certs/DEV_121412/private.pem.key",
+        "root_ca": "certs/DEV_121412/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121419": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121419/certificate.pem.crt",
+        "private_key": "certs/DEV_121419/private.pem.key",
+        "root_ca": "certs/DEV_121419/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121468": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121468/certificate.pem.crt",
+        "private_key": "certs/DEV_121468/private.pem.key",
+        "root_ca": "certs/DEV_121468/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121503": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121503/certificate.pem.crt",
+        "private_key": "certs/DEV_121503/private.pem.key",
+        "root_ca": "certs/DEV_121503/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121538": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121538/certificate.pem.crt",
+        "private_key": "certs/DEV_121538/private.pem.key",
+        "root_ca": "certs/DEV_121538/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121608": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121608/certificate.pem.crt",
+        "private_key": "certs/DEV_121608/private.pem.key",
+        "root_ca": "certs/DEV_121608/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121615": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121615/certificate.pem.crt",
+        "private_key": "certs/DEV_121615/private.pem.key",
+        "root_ca": "certs/DEV_121615/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121664": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121664/certificate.pem.crt",
+        "private_key": "certs/DEV_121664/private.pem.key",
+        "root_ca": "certs/DEV_121664/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121671": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121671/certificate.pem.crt",
+        "private_key": "certs/DEV_121671/private.pem.key",
+        "root_ca": "certs/DEV_121671/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121720": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121720/certificate.pem.crt",
+        "private_key": "certs/DEV_121720/private.pem.key",
+        "root_ca": "certs/DEV_121720/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121727": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121727/certificate.pem.crt",
+        "private_key": "certs/DEV_121727/private.pem.key",
+        "root_ca": "certs/DEV_121727/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121755": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121755/certificate.pem.crt",
+        "private_key": "certs/DEV_121755/private.pem.key",
+        "root_ca": "certs/DEV_121755/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121797": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121797/certificate.pem.crt",
+        "private_key": "certs/DEV_121797/private.pem.key",
+        "root_ca": "certs/DEV_121797/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121804": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121804/certificate.pem.crt",
+        "private_key": "certs/DEV_121804/private.pem.key",
+        "root_ca": "certs/DEV_121804/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121818": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121818/certificate.pem.crt",
+        "private_key": "certs/DEV_121818/private.pem.key",
+        "root_ca": "certs/DEV_121818/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121888": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121888/certificate.pem.crt",
+        "private_key": "certs/DEV_121888/private.pem.key",
+        "root_ca": "certs/DEV_121888/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121909": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121909/certificate.pem.crt",
+        "private_key": "certs/DEV_121909/private.pem.key",
+        "root_ca": "certs/DEV_121909/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_121958": {
+      "certificate_files": {
+        "certificate": "certs/DEV_121958/certificate.pem.crt",
+        "private_key": "certs/DEV_121958/private.pem.key",
+        "root_ca": "certs/DEV_121958/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122035": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122035/certificate.pem.crt",
+        "private_key": "certs/DEV_122035/private.pem.key",
+        "root_ca": "certs/DEV_122035/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122105": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122105/certificate.pem.crt",
+        "private_key": "certs/DEV_122105/private.pem.key",
+        "root_ca": "certs/DEV_122105/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122133": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122133/certificate.pem.crt",
+        "private_key": "certs/DEV_122133/private.pem.key",
+        "root_ca": "certs/DEV_122133/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122140": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122140/certificate.pem.crt",
+        "private_key": "certs/DEV_122140/private.pem.key",
+        "root_ca": "certs/DEV_122140/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122154": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122154/certificate.pem.crt",
+        "private_key": "certs/DEV_122154/private.pem.key",
+        "root_ca": "certs/DEV_122154/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122210": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122210/certificate.pem.crt",
+        "private_key": "certs/DEV_122210/private.pem.key",
+        "root_ca": "certs/DEV_122210/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122245": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122245/certificate.pem.crt",
+        "private_key": "certs/DEV_122245/private.pem.key",
+        "root_ca": "certs/DEV_122245/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122259": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122259/certificate.pem.crt",
+        "private_key": "certs/DEV_122259/private.pem.key",
+        "root_ca": "certs/DEV_122259/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122280": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122280/certificate.pem.crt",
+        "private_key": "certs/DEV_122280/private.pem.key",
+        "root_ca": "certs/DEV_122280/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122287": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122287/certificate.pem.crt",
+        "private_key": "certs/DEV_122287/private.pem.key",
+        "root_ca": "certs/DEV_122287/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122322": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122322/certificate.pem.crt",
+        "private_key": "certs/DEV_122322/private.pem.key",
+        "root_ca": "certs/DEV_122322/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122336": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122336/certificate.pem.crt",
+        "private_key": "certs/DEV_122336/private.pem.key",
+        "root_ca": "certs/DEV_122336/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122371": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122371/certificate.pem.crt",
+        "private_key": "certs/DEV_122371/private.pem.key",
+        "root_ca": "certs/DEV_122371/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122392": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122392/certificate.pem.crt",
+        "private_key": "certs/DEV_122392/private.pem.key",
+        "root_ca": "certs/DEV_122392/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122504": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122504/certificate.pem.crt",
+        "private_key": "certs/DEV_122504/private.pem.key",
+        "root_ca": "certs/DEV_122504/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122567": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122567/certificate.pem.crt",
+        "private_key": "certs/DEV_122567/private.pem.key",
+        "root_ca": "certs/DEV_122567/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122623": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122623/certificate.pem.crt",
+        "private_key": "certs/DEV_122623/private.pem.key",
+        "root_ca": "certs/DEV_122623/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122637": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122637/certificate.pem.crt",
+        "private_key": "certs/DEV_122637/private.pem.key",
+        "root_ca": "certs/DEV_122637/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122693": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122693/certificate.pem.crt",
+        "private_key": "certs/DEV_122693/private.pem.key",
+        "root_ca": "certs/DEV_122693/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122700": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122700/certificate.pem.crt",
+        "private_key": "certs/DEV_122700/private.pem.key",
+        "root_ca": "certs/DEV_122700/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122707": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122707/certificate.pem.crt",
+        "private_key": "certs/DEV_122707/private.pem.key",
+        "root_ca": "certs/DEV_122707/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122728": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122728/certificate.pem.crt",
+        "private_key": "certs/DEV_122728/private.pem.key",
+        "root_ca": "certs/DEV_122728/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122735": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122735/certificate.pem.crt",
+        "private_key": "certs/DEV_122735/private.pem.key",
+        "root_ca": "certs/DEV_122735/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122749": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122749/certificate.pem.crt",
+        "private_key": "certs/DEV_122749/private.pem.key",
+        "root_ca": "certs/DEV_122749/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122756": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122756/certificate.pem.crt",
+        "private_key": "certs/DEV_122756/private.pem.key",
+        "root_ca": "certs/DEV_122756/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122826": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122826/certificate.pem.crt",
+        "private_key": "certs/DEV_122826/private.pem.key",
+        "root_ca": "certs/DEV_122826/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122882": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122882/certificate.pem.crt",
+        "private_key": "certs/DEV_122882/private.pem.key",
+        "root_ca": "certs/DEV_122882/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122959": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122959/certificate.pem.crt",
+        "private_key": "certs/DEV_122959/private.pem.key",
+        "root_ca": "certs/DEV_122959/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_122994": {
+      "certificate_files": {
+        "certificate": "certs/DEV_122994/certificate.pem.crt",
+        "private_key": "certs/DEV_122994/private.pem.key",
+        "root_ca": "certs/DEV_122994/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123064": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123064/certificate.pem.crt",
+        "private_key": "certs/DEV_123064/private.pem.key",
+        "root_ca": "certs/DEV_123064/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123134": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123134/certificate.pem.crt",
+        "private_key": "certs/DEV_123134/private.pem.key",
+        "root_ca": "certs/DEV_123134/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123218": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123218/certificate.pem.crt",
+        "private_key": "certs/DEV_123218/private.pem.key",
+        "root_ca": "certs/DEV_123218/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123232": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123232/certificate.pem.crt",
+        "private_key": "certs/DEV_123232/private.pem.key",
+        "root_ca": "certs/DEV_123232/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123260": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123260/certificate.pem.crt",
+        "private_key": "certs/DEV_123260/private.pem.key",
+        "root_ca": "certs/DEV_123260/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123274": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123274/certificate.pem.crt",
+        "private_key": "certs/DEV_123274/private.pem.key",
+        "root_ca": "certs/DEV_123274/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123281": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123281/certificate.pem.crt",
+        "private_key": "certs/DEV_123281/private.pem.key",
+        "root_ca": "certs/DEV_123281/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123295": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123295/certificate.pem.crt",
+        "private_key": "certs/DEV_123295/private.pem.key",
+        "root_ca": "certs/DEV_123295/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123344": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123344/certificate.pem.crt",
+        "private_key": "certs/DEV_123344/private.pem.key",
+        "root_ca": "certs/DEV_123344/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123372": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123372/certificate.pem.crt",
+        "private_key": "certs/DEV_123372/private.pem.key",
+        "root_ca": "certs/DEV_123372/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123463": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123463/certificate.pem.crt",
+        "private_key": "certs/DEV_123463/private.pem.key",
+        "root_ca": "certs/DEV_123463/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123470": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123470/certificate.pem.crt",
+        "private_key": "certs/DEV_123470/private.pem.key",
+        "root_ca": "certs/DEV_123470/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123491": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123491/certificate.pem.crt",
+        "private_key": "certs/DEV_123491/private.pem.key",
+        "root_ca": "certs/DEV_123491/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123498": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123498/certificate.pem.crt",
+        "private_key": "certs/DEV_123498/private.pem.key",
+        "root_ca": "certs/DEV_123498/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123505": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123505/certificate.pem.crt",
+        "private_key": "certs/DEV_123505/private.pem.key",
+        "root_ca": "certs/DEV_123505/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123568": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123568/certificate.pem.crt",
+        "private_key": "certs/DEV_123568/private.pem.key",
+        "root_ca": "certs/DEV_123568/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123617": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123617/certificate.pem.crt",
+        "private_key": "certs/DEV_123617/private.pem.key",
+        "root_ca": "certs/DEV_123617/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123638": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123638/certificate.pem.crt",
+        "private_key": "certs/DEV_123638/private.pem.key",
+        "root_ca": "certs/DEV_123638/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123659": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123659/certificate.pem.crt",
+        "private_key": "certs/DEV_123659/private.pem.key",
+        "root_ca": "certs/DEV_123659/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123666": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123666/certificate.pem.crt",
+        "private_key": "certs/DEV_123666/private.pem.key",
+        "root_ca": "certs/DEV_123666/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123673": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123673/certificate.pem.crt",
+        "private_key": "certs/DEV_123673/private.pem.key",
+        "root_ca": "certs/DEV_123673/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123722": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123722/certificate.pem.crt",
+        "private_key": "certs/DEV_123722/private.pem.key",
+        "root_ca": "certs/DEV_123722/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123750": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123750/certificate.pem.crt",
+        "private_key": "certs/DEV_123750/private.pem.key",
+        "root_ca": "certs/DEV_123750/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123925": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123925/certificate.pem.crt",
+        "private_key": "certs/DEV_123925/private.pem.key",
+        "root_ca": "certs/DEV_123925/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123960": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123960/certificate.pem.crt",
+        "private_key": "certs/DEV_123960/private.pem.key",
+        "root_ca": "certs/DEV_123960/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123967": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123967/certificate.pem.crt",
+        "private_key": "certs/DEV_123967/private.pem.key",
+        "root_ca": "certs/DEV_123967/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_123981": {
+      "certificate_files": {
+        "certificate": "certs/DEV_123981/certificate.pem.crt",
+        "private_key": "certs/DEV_123981/private.pem.key",
+        "root_ca": "certs/DEV_123981/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124051": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124051/certificate.pem.crt",
+        "private_key": "certs/DEV_124051/private.pem.key",
+        "root_ca": "certs/DEV_124051/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124086": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124086/certificate.pem.crt",
+        "private_key": "certs/DEV_124086/private.pem.key",
+        "root_ca": "certs/DEV_124086/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124149": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124149/certificate.pem.crt",
+        "private_key": "certs/DEV_124149/private.pem.key",
+        "root_ca": "certs/DEV_124149/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124268": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124268/certificate.pem.crt",
+        "private_key": "certs/DEV_124268/private.pem.key",
+        "root_ca": "certs/DEV_124268/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124303": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124303/certificate.pem.crt",
+        "private_key": "certs/DEV_124303/private.pem.key",
+        "root_ca": "certs/DEV_124303/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124352": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124352/certificate.pem.crt",
+        "private_key": "certs/DEV_124352/private.pem.key",
+        "root_ca": "certs/DEV_124352/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124401": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124401/certificate.pem.crt",
+        "private_key": "certs/DEV_124401/private.pem.key",
+        "root_ca": "certs/DEV_124401/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124429": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124429/certificate.pem.crt",
+        "private_key": "certs/DEV_124429/private.pem.key",
+        "root_ca": "certs/DEV_124429/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124450": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124450/certificate.pem.crt",
+        "private_key": "certs/DEV_124450/private.pem.key",
+        "root_ca": "certs/DEV_124450/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124485": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124485/certificate.pem.crt",
+        "private_key": "certs/DEV_124485/private.pem.key",
+        "root_ca": "certs/DEV_124485/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124506": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124506/certificate.pem.crt",
+        "private_key": "certs/DEV_124506/private.pem.key",
+        "root_ca": "certs/DEV_124506/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124541": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124541/certificate.pem.crt",
+        "private_key": "certs/DEV_124541/private.pem.key",
+        "root_ca": "certs/DEV_124541/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124562": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124562/certificate.pem.crt",
+        "private_key": "certs/DEV_124562/private.pem.key",
+        "root_ca": "certs/DEV_124562/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124576": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124576/certificate.pem.crt",
+        "private_key": "certs/DEV_124576/private.pem.key",
+        "root_ca": "certs/DEV_124576/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124597": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124597/certificate.pem.crt",
+        "private_key": "certs/DEV_124597/private.pem.key",
+        "root_ca": "certs/DEV_124597/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124646": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124646/certificate.pem.crt",
+        "private_key": "certs/DEV_124646/private.pem.key",
+        "root_ca": "certs/DEV_124646/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124653": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124653/certificate.pem.crt",
+        "private_key": "certs/DEV_124653/private.pem.key",
+        "root_ca": "certs/DEV_124653/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124667": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124667/certificate.pem.crt",
+        "private_key": "certs/DEV_124667/private.pem.key",
+        "root_ca": "certs/DEV_124667/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124674": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124674/certificate.pem.crt",
+        "private_key": "certs/DEV_124674/private.pem.key",
+        "root_ca": "certs/DEV_124674/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124772": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124772/certificate.pem.crt",
+        "private_key": "certs/DEV_124772/private.pem.key",
+        "root_ca": "certs/DEV_124772/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124800": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124800/certificate.pem.crt",
+        "private_key": "certs/DEV_124800/private.pem.key",
+        "root_ca": "certs/DEV_124800/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124828": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124828/certificate.pem.crt",
+        "private_key": "certs/DEV_124828/private.pem.key",
+        "root_ca": "certs/DEV_124828/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124891": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124891/certificate.pem.crt",
+        "private_key": "certs/DEV_124891/private.pem.key",
+        "root_ca": "certs/DEV_124891/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124898": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124898/certificate.pem.crt",
+        "private_key": "certs/DEV_124898/private.pem.key",
+        "root_ca": "certs/DEV_124898/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124919": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124919/certificate.pem.crt",
+        "private_key": "certs/DEV_124919/private.pem.key",
+        "root_ca": "certs/DEV_124919/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124926": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124926/certificate.pem.crt",
+        "private_key": "certs/DEV_124926/private.pem.key",
+        "root_ca": "certs/DEV_124926/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_124968": {
+      "certificate_files": {
+        "certificate": "certs/DEV_124968/certificate.pem.crt",
+        "private_key": "certs/DEV_124968/private.pem.key",
+        "root_ca": "certs/DEV_124968/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125136": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125136/certificate.pem.crt",
+        "private_key": "certs/DEV_125136/private.pem.key",
+        "root_ca": "certs/DEV_125136/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125199": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125199/certificate.pem.crt",
+        "private_key": "certs/DEV_125199/private.pem.key",
+        "root_ca": "certs/DEV_125199/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125206": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125206/certificate.pem.crt",
+        "private_key": "certs/DEV_125206/private.pem.key",
+        "root_ca": "certs/DEV_125206/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125290": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125290/certificate.pem.crt",
+        "private_key": "certs/DEV_125290/private.pem.key",
+        "root_ca": "certs/DEV_125290/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125318": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125318/certificate.pem.crt",
+        "private_key": "certs/DEV_125318/private.pem.key",
+        "root_ca": "certs/DEV_125318/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125374": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125374/certificate.pem.crt",
+        "private_key": "certs/DEV_125374/private.pem.key",
+        "root_ca": "certs/DEV_125374/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125388": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125388/certificate.pem.crt",
+        "private_key": "certs/DEV_125388/private.pem.key",
+        "root_ca": "certs/DEV_125388/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125395": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125395/certificate.pem.crt",
+        "private_key": "certs/DEV_125395/private.pem.key",
+        "root_ca": "certs/DEV_125395/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125416": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125416/certificate.pem.crt",
+        "private_key": "certs/DEV_125416/private.pem.key",
+        "root_ca": "certs/DEV_125416/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125423": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125423/certificate.pem.crt",
+        "private_key": "certs/DEV_125423/private.pem.key",
+        "root_ca": "certs/DEV_125423/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125514": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125514/certificate.pem.crt",
+        "private_key": "certs/DEV_125514/private.pem.key",
+        "root_ca": "certs/DEV_125514/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125521": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125521/certificate.pem.crt",
+        "private_key": "certs/DEV_125521/private.pem.key",
+        "root_ca": "certs/DEV_125521/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125556": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125556/certificate.pem.crt",
+        "private_key": "certs/DEV_125556/private.pem.key",
+        "root_ca": "certs/DEV_125556/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125612": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125612/certificate.pem.crt",
+        "private_key": "certs/DEV_125612/private.pem.key",
+        "root_ca": "certs/DEV_125612/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125738": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125738/certificate.pem.crt",
+        "private_key": "certs/DEV_125738/private.pem.key",
+        "root_ca": "certs/DEV_125738/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_125969": {
+      "certificate_files": {
+        "certificate": "certs/DEV_125969/certificate.pem.crt",
+        "private_key": "certs/DEV_125969/private.pem.key",
+        "root_ca": "certs/DEV_125969/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126004": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126004/certificate.pem.crt",
+        "private_key": "certs/DEV_126004/private.pem.key",
+        "root_ca": "certs/DEV_126004/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126032": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126032/certificate.pem.crt",
+        "private_key": "certs/DEV_126032/private.pem.key",
+        "root_ca": "certs/DEV_126032/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126046": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126046/certificate.pem.crt",
+        "private_key": "certs/DEV_126046/private.pem.key",
+        "root_ca": "certs/DEV_126046/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126067": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126067/certificate.pem.crt",
+        "private_key": "certs/DEV_126067/private.pem.key",
+        "root_ca": "certs/DEV_126067/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126074": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126074/certificate.pem.crt",
+        "private_key": "certs/DEV_126074/private.pem.key",
+        "root_ca": "certs/DEV_126074/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126137": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126137/certificate.pem.crt",
+        "private_key": "certs/DEV_126137/private.pem.key",
+        "root_ca": "certs/DEV_126137/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126158": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126158/certificate.pem.crt",
+        "private_key": "certs/DEV_126158/private.pem.key",
+        "root_ca": "certs/DEV_126158/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126179": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126179/certificate.pem.crt",
+        "private_key": "certs/DEV_126179/private.pem.key",
+        "root_ca": "certs/DEV_126179/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126214": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126214/certificate.pem.crt",
+        "private_key": "certs/DEV_126214/private.pem.key",
+        "root_ca": "certs/DEV_126214/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126221": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126221/certificate.pem.crt",
+        "private_key": "certs/DEV_126221/private.pem.key",
+        "root_ca": "certs/DEV_126221/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126242": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126242/certificate.pem.crt",
+        "private_key": "certs/DEV_126242/private.pem.key",
+        "root_ca": "certs/DEV_126242/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126361": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126361/certificate.pem.crt",
+        "private_key": "certs/DEV_126361/private.pem.key",
+        "root_ca": "certs/DEV_126361/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126382": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126382/certificate.pem.crt",
+        "private_key": "certs/DEV_126382/private.pem.key",
+        "root_ca": "certs/DEV_126382/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126403": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126403/certificate.pem.crt",
+        "private_key": "certs/DEV_126403/private.pem.key",
+        "root_ca": "certs/DEV_126403/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126445": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126445/certificate.pem.crt",
+        "private_key": "certs/DEV_126445/private.pem.key",
+        "root_ca": "certs/DEV_126445/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126522": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126522/certificate.pem.crt",
+        "private_key": "certs/DEV_126522/private.pem.key",
+        "root_ca": "certs/DEV_126522/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126529": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126529/certificate.pem.crt",
+        "private_key": "certs/DEV_126529/private.pem.key",
+        "root_ca": "certs/DEV_126529/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126536": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126536/certificate.pem.crt",
+        "private_key": "certs/DEV_126536/private.pem.key",
+        "root_ca": "certs/DEV_126536/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126613": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126613/certificate.pem.crt",
+        "private_key": "certs/DEV_126613/private.pem.key",
+        "root_ca": "certs/DEV_126613/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126697": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126697/certificate.pem.crt",
+        "private_key": "certs/DEV_126697/private.pem.key",
+        "root_ca": "certs/DEV_126697/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126774": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126774/certificate.pem.crt",
+        "private_key": "certs/DEV_126774/private.pem.key",
+        "root_ca": "certs/DEV_126774/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126809": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126809/certificate.pem.crt",
+        "private_key": "certs/DEV_126809/private.pem.key",
+        "root_ca": "certs/DEV_126809/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126844": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126844/certificate.pem.crt",
+        "private_key": "certs/DEV_126844/private.pem.key",
+        "root_ca": "certs/DEV_126844/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126865": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126865/certificate.pem.crt",
+        "private_key": "certs/DEV_126865/private.pem.key",
+        "root_ca": "certs/DEV_126865/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126893": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126893/certificate.pem.crt",
+        "private_key": "certs/DEV_126893/private.pem.key",
+        "root_ca": "certs/DEV_126893/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126935": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126935/certificate.pem.crt",
+        "private_key": "certs/DEV_126935/private.pem.key",
+        "root_ca": "certs/DEV_126935/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_126956": {
+      "certificate_files": {
+        "certificate": "certs/DEV_126956/certificate.pem.crt",
+        "private_key": "certs/DEV_126956/private.pem.key",
+        "root_ca": "certs/DEV_126956/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127012": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127012/certificate.pem.crt",
+        "private_key": "certs/DEV_127012/private.pem.key",
+        "root_ca": "certs/DEV_127012/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127019": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127019/certificate.pem.crt",
+        "private_key": "certs/DEV_127019/private.pem.key",
+        "root_ca": "certs/DEV_127019/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127026": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127026/certificate.pem.crt",
+        "private_key": "certs/DEV_127026/private.pem.key",
+        "root_ca": "certs/DEV_127026/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127040": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127040/certificate.pem.crt",
+        "private_key": "certs/DEV_127040/private.pem.key",
+        "root_ca": "certs/DEV_127040/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127110": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127110/certificate.pem.crt",
+        "private_key": "certs/DEV_127110/private.pem.key",
+        "root_ca": "certs/DEV_127110/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127131": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127131/certificate.pem.crt",
+        "private_key": "certs/DEV_127131/private.pem.key",
+        "root_ca": "certs/DEV_127131/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127159": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127159/certificate.pem.crt",
+        "private_key": "certs/DEV_127159/private.pem.key",
+        "root_ca": "certs/DEV_127159/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127180": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127180/certificate.pem.crt",
+        "private_key": "certs/DEV_127180/private.pem.key",
+        "root_ca": "certs/DEV_127180/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127187": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127187/certificate.pem.crt",
+        "private_key": "certs/DEV_127187/private.pem.key",
+        "root_ca": "certs/DEV_127187/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127208": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127208/certificate.pem.crt",
+        "private_key": "certs/DEV_127208/private.pem.key",
+        "root_ca": "certs/DEV_127208/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127250": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127250/certificate.pem.crt",
+        "private_key": "certs/DEV_127250/private.pem.key",
+        "root_ca": "certs/DEV_127250/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127285": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127285/certificate.pem.crt",
+        "private_key": "certs/DEV_127285/private.pem.key",
+        "root_ca": "certs/DEV_127285/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127369": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127369/certificate.pem.crt",
+        "private_key": "certs/DEV_127369/private.pem.key",
+        "root_ca": "certs/DEV_127369/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127418": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127418/certificate.pem.crt",
+        "private_key": "certs/DEV_127418/private.pem.key",
+        "root_ca": "certs/DEV_127418/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127432": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127432/certificate.pem.crt",
+        "private_key": "certs/DEV_127432/private.pem.key",
+        "root_ca": "certs/DEV_127432/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127446": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127446/certificate.pem.crt",
+        "private_key": "certs/DEV_127446/private.pem.key",
+        "root_ca": "certs/DEV_127446/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127453": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127453/certificate.pem.crt",
+        "private_key": "certs/DEV_127453/private.pem.key",
+        "root_ca": "certs/DEV_127453/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127460": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127460/certificate.pem.crt",
+        "private_key": "certs/DEV_127460/private.pem.key",
+        "root_ca": "certs/DEV_127460/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127488": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127488/certificate.pem.crt",
+        "private_key": "certs/DEV_127488/private.pem.key",
+        "root_ca": "certs/DEV_127488/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127509": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127509/certificate.pem.crt",
+        "private_key": "certs/DEV_127509/private.pem.key",
+        "root_ca": "certs/DEV_127509/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127586": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127586/certificate.pem.crt",
+        "private_key": "certs/DEV_127586/private.pem.key",
+        "root_ca": "certs/DEV_127586/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127621": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127621/certificate.pem.crt",
+        "private_key": "certs/DEV_127621/private.pem.key",
+        "root_ca": "certs/DEV_127621/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127670": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127670/certificate.pem.crt",
+        "private_key": "certs/DEV_127670/private.pem.key",
+        "root_ca": "certs/DEV_127670/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127691": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127691/certificate.pem.crt",
+        "private_key": "certs/DEV_127691/private.pem.key",
+        "root_ca": "certs/DEV_127691/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127705": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127705/certificate.pem.crt",
+        "private_key": "certs/DEV_127705/private.pem.key",
+        "root_ca": "certs/DEV_127705/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127719": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127719/certificate.pem.crt",
+        "private_key": "certs/DEV_127719/private.pem.key",
+        "root_ca": "certs/DEV_127719/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127775": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127775/certificate.pem.crt",
+        "private_key": "certs/DEV_127775/private.pem.key",
+        "root_ca": "certs/DEV_127775/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127929": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127929/certificate.pem.crt",
+        "private_key": "certs/DEV_127929/private.pem.key",
+        "root_ca": "certs/DEV_127929/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_127964": {
+      "certificate_files": {
+        "certificate": "certs/DEV_127964/certificate.pem.crt",
+        "private_key": "certs/DEV_127964/private.pem.key",
+        "root_ca": "certs/DEV_127964/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128027": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128027/certificate.pem.crt",
+        "private_key": "certs/DEV_128027/private.pem.key",
+        "root_ca": "certs/DEV_128027/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128055": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128055/certificate.pem.crt",
+        "private_key": "certs/DEV_128055/private.pem.key",
+        "root_ca": "certs/DEV_128055/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128090": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128090/certificate.pem.crt",
+        "private_key": "certs/DEV_128090/private.pem.key",
+        "root_ca": "certs/DEV_128090/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128111": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128111/certificate.pem.crt",
+        "private_key": "certs/DEV_128111/private.pem.key",
+        "root_ca": "certs/DEV_128111/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128139": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128139/certificate.pem.crt",
+        "private_key": "certs/DEV_128139/private.pem.key",
+        "root_ca": "certs/DEV_128139/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128146": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128146/certificate.pem.crt",
+        "private_key": "certs/DEV_128146/private.pem.key",
+        "root_ca": "certs/DEV_128146/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128160": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128160/certificate.pem.crt",
+        "private_key": "certs/DEV_128160/private.pem.key",
+        "root_ca": "certs/DEV_128160/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128167": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128167/certificate.pem.crt",
+        "private_key": "certs/DEV_128167/private.pem.key",
+        "root_ca": "certs/DEV_128167/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128195": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128195/certificate.pem.crt",
+        "private_key": "certs/DEV_128195/private.pem.key",
+        "root_ca": "certs/DEV_128195/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128258": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128258/certificate.pem.crt",
+        "private_key": "certs/DEV_128258/private.pem.key",
+        "root_ca": "certs/DEV_128258/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128293": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128293/certificate.pem.crt",
+        "private_key": "certs/DEV_128293/private.pem.key",
+        "root_ca": "certs/DEV_128293/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128300": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128300/certificate.pem.crt",
+        "private_key": "certs/DEV_128300/private.pem.key",
+        "root_ca": "certs/DEV_128300/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128370": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128370/certificate.pem.crt",
+        "private_key": "certs/DEV_128370/private.pem.key",
+        "root_ca": "certs/DEV_128370/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128412": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128412/certificate.pem.crt",
+        "private_key": "certs/DEV_128412/private.pem.key",
+        "root_ca": "certs/DEV_128412/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128475": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128475/certificate.pem.crt",
+        "private_key": "certs/DEV_128475/private.pem.key",
+        "root_ca": "certs/DEV_128475/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128517": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128517/certificate.pem.crt",
+        "private_key": "certs/DEV_128517/private.pem.key",
+        "root_ca": "certs/DEV_128517/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128531": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128531/certificate.pem.crt",
+        "private_key": "certs/DEV_128531/private.pem.key",
+        "root_ca": "certs/DEV_128531/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128594": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128594/certificate.pem.crt",
+        "private_key": "certs/DEV_128594/private.pem.key",
+        "root_ca": "certs/DEV_128594/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128629": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128629/certificate.pem.crt",
+        "private_key": "certs/DEV_128629/private.pem.key",
+        "root_ca": "certs/DEV_128629/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128727": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128727/certificate.pem.crt",
+        "private_key": "certs/DEV_128727/private.pem.key",
+        "root_ca": "certs/DEV_128727/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128755": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128755/certificate.pem.crt",
+        "private_key": "certs/DEV_128755/private.pem.key",
+        "root_ca": "certs/DEV_128755/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128818": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128818/certificate.pem.crt",
+        "private_key": "certs/DEV_128818/private.pem.key",
+        "root_ca": "certs/DEV_128818/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128860": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128860/certificate.pem.crt",
+        "private_key": "certs/DEV_128860/private.pem.key",
+        "root_ca": "certs/DEV_128860/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128867": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128867/certificate.pem.crt",
+        "private_key": "certs/DEV_128867/private.pem.key",
+        "root_ca": "certs/DEV_128867/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128888": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128888/certificate.pem.crt",
+        "private_key": "certs/DEV_128888/private.pem.key",
+        "root_ca": "certs/DEV_128888/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128902": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128902/certificate.pem.crt",
+        "private_key": "certs/DEV_128902/private.pem.key",
+        "root_ca": "certs/DEV_128902/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128923": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128923/certificate.pem.crt",
+        "private_key": "certs/DEV_128923/private.pem.key",
+        "root_ca": "certs/DEV_128923/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_128986": {
+      "certificate_files": {
+        "certificate": "certs/DEV_128986/certificate.pem.crt",
+        "private_key": "certs/DEV_128986/private.pem.key",
+        "root_ca": "certs/DEV_128986/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_129091": {
+      "certificate_files": {
+        "certificate": "certs/DEV_129091/certificate.pem.crt",
+        "private_key": "certs/DEV_129091/private.pem.key",
+        "root_ca": "certs/DEV_129091/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_129098": {
+      "certificate_files": {
+        "certificate": "certs/DEV_129098/certificate.pem.crt",
+        "private_key": "certs/DEV_129098/private.pem.key",
+        "root_ca": "certs/DEV_129098/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_129112": {
+      "certificate_files": {
+        "certificate": "certs/DEV_129112/certificate.pem.crt",
+        "private_key": "certs/DEV_129112/private.pem.key",
+        "root_ca": "certs/DEV_129112/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_129168": {
+      "certificate_files": {
+        "certificate": "certs/DEV_129168/certificate.pem.crt",
+        "private_key": "certs/DEV_129168/private.pem.key",
+        "root_ca": "certs/DEV_129168/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_129378": {
+      "certificate_files": {
+        "certificate": "certs/DEV_129378/certificate.pem.crt",
+        "private_key": "certs/DEV_129378/private.pem.key",
+        "root_ca": "certs/DEV_129378/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_129441": {
+      "certificate_files": {
+        "certificate": "certs/DEV_129441/certificate.pem.crt",
+        "private_key": "certs/DEV_129441/private.pem.key",
+        "root_ca": "certs/DEV_129441/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_129462": {
+      "certificate_files": {
+        "certificate": "certs/DEV_129462/certificate.pem.crt",
+        "private_key": "certs/DEV_129462/private.pem.key",
+        "root_ca": "certs/DEV_129462/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_129469": {
+      "certificate_files": {
+        "certificate": "certs/DEV_129469/certificate.pem.crt",
+        "private_key": "certs/DEV_129469/private.pem.key",
+        "root_ca": "certs/DEV_129469/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_129476": {
+      "certificate_files": {
+        "certificate": "certs/DEV_129476/certificate.pem.crt",
+        "private_key": "certs/DEV_129476/private.pem.key",
+        "root_ca": "certs/DEV_129476/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_129567": {
+      "certificate_files": {
+        "certificate": "certs/DEV_129567/certificate.pem.crt",
+        "private_key": "certs/DEV_129567/private.pem.key",
+        "root_ca": "certs/DEV_129567/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_129574": {
+      "certificate_files": {
+        "certificate": "certs/DEV_129574/certificate.pem.crt",
+        "private_key": "certs/DEV_129574/private.pem.key",
+        "root_ca": "certs/DEV_129574/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_129686": {
+      "certificate_files": {
+        "certificate": "certs/DEV_129686/certificate.pem.crt",
+        "private_key": "certs/DEV_129686/private.pem.key",
+        "root_ca": "certs/DEV_129686/AmazonRootCA1.pem"
+      }
+    },
+    "DEV_129693": {
+      "certificate_files": {
+        "certificate": "certs/DEV_129693/certificate.pem.crt",
+        "private_key": "certs/DEV_129693/private.pem.key",
+        "root_ca": "certs/DEV_129693/AmazonRootCA1.pem"
+      }
+    }
+  }
+}
